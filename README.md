@@ -1,16 +1,14 @@
-### Hi there 👋
+## About me:
+My name is Ali Reza Joodi.
 
-<!--
-**AliRezaJoodi/AliRezaJoodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
+<!-- GitHub Stats by github-readme-stats.vercel.app -->
 
-Here are some ideas to get you started:
+<a href="https://github.com/AliRezaJoodi">
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaJoodi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html" alt="AliRezaJoodi's GitHub Stats" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/AliRezaJoodi">
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=AliRezaJoodi&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=D8BFD8&bg_color=1A2B34" alt="AliRezaJoodi's GitHub Stats" />
+</a>
+

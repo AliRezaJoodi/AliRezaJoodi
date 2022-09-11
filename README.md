@@ -3,7 +3,6 @@ My name is Ali Reza Joodi.
 
 <!--
 ## GitHub Stats
-<!-- GitHub Stats by github-readme-stats.vercel.app -->
 
 <a href="https://github.com/AliRezaJoodi">
   <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaJoodi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html" alt="AliRezaJoodi's GitHub Stats" />

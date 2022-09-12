@@ -1,5 +1,5 @@
 ## About me:
-I am editing. 
+Editing ... 
 
 <!--
 ## GitHub Stats

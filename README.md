@@ -11,7 +11,7 @@ I'll use other social media_
 [Instagram](https://instagram.com/Ali_Reza_Joodi)
 [FaceBook](https://www.facebook.com/AliRezaJoodi1984)
 [Twitter](https://twitter.com/AliRezaJoodi)
-, But they will be just informing and I can't spend more time to check your comment_sorry.
+, But they will be just informing and I can't spend more time to check comments.
 Please, follow me on the GitHub and create an issue if you have a question. I think is better.
 
 Thanks

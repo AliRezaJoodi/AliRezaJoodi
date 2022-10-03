@@ -5,13 +5,13 @@ I will publish simple files to start, then main projects.
 
 Also, I am learning about data science. I'll use here for my exercise about software.
 
-I decided to concentrate just on the [GitHub](https://github.com/AliRezaJoodi).
+I decided to focus just on the [GitHub](https://github.com/AliRezaJoodi).
 I'll use other social media_
 [LinkedIn](https://www.linkedin.com/in/AliRezaJoodi)
 [Instagram](https://instagram.com/Ali_Reza_Joodi)
 [FaceBook](https://www.facebook.com/AliRezaJoodi1984)
 [Twitter](https://twitter.com/AliRezaJoodi)
-, but it will be just informing, Maybe I can't spend more time to check your comment on other social medi.
+, but it will be just informing, Maybe I can't spend more time to check your comment on the other social medi.
 Please, follow me on the GitHub and create an issue if you have a question. I think is better.
 
 Thanks

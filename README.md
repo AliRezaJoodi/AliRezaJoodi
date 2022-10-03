@@ -3,22 +3,18 @@ I did many electronics projects during over past ten years.
 I want to publish my personal electronics projects.
 I will publish simple files to start, then main projects.
 
-I decided to concentrate just on the GitHub.
-I'll use other social media, but it will be just informing, Maybe I can't spend more time to check your comment there.
+Also, I am learning about data science. I'll use here for my exercise about software.
+
+I decided to concentrate just on the [GitHub](https://github.com/AliRezaJoodi).
+I'll use other social media_
+[LinkedIn](https://www.linkedin.com/in/AliRezaJoodi)
+[Instagram](https://instagram.com/Ali_Reza_Joodi)
+[FaceBook](https://www.facebook.com/AliRezaJoodi1984)
+[Twitter](https://twitter.com/AliRezaJoodi)
+, but it will be just informing, Maybe I can't spend more time to check your comment on other social medi.
 Please, follow me on the GitHub and create an issue if you have a question. I think is better.
 
 Thanks
-
-
-My Main Social Media Account:
-- [GitHub](https://github.com/AliRezaJoodi)
-- [LinkedIn](https://www.linkedin.com/in/AliRezaJoodi)
-
-My Other Social Media Account:
-- [Instagram](https://instagram.com/Ali_Reza_Joodi)
-- [FaceBook](https://www.facebook.com/AliRezaJoodi1984)
-- [Twitter](https://twitter.com/AliRezaJoodi)
-
 
 ## GitHub Stats
 

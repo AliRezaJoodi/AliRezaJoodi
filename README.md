@@ -16,8 +16,10 @@ Please, follow, fork and star me on the GitHub.
 
 Thanks
 
-<!--
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaJoodi&layout=compact)
+
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRezaJoodi&hide=prs,issues,contribs&show_icons=true)
 -->
 
@@ -32,7 +34,7 @@ Thanks
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=AliRezaJoodi&repo=Electronics_Modules&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 -->
 
-
+<!--
 ## GitHub Stats
 <a href="https://github.com/AliRezaJoodi">
   <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaJoodi&layout=compact" alt="AliRezaJoodi's Top languages" />
@@ -41,5 +43,5 @@ Thanks
 <a href="https://github.com/AliRezaJoodi">
   <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=AliRezaJoodi&hide=prs,issues,contribs&show_icons=true" alt="AliRezaJoodi's GitHub Stats" />
 </a>
-
+-->
 

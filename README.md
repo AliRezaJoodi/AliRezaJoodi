@@ -1,8 +1,7 @@
 ## About me:
 I did many electronics projects during over past ten years.
 I want to publish my personal electronics projects.
-I will publish simple files to start, then main projects.
-
+I will publish simple files to start, then main projects.  
 Also, I am learning about data science. I'll use here for my exercise about software.
 
 I decided to focus just on the [GitHub](https://github.com/AliRezaJoodi).
@@ -11,13 +10,15 @@ I'll use other social media_
 [Instagram](https://instagram.com/Ali_Reza_Joodi)
 [FaceBook](https://www.facebook.com/AliRezaJoodi1984)
 [Twitter](https://twitter.com/AliRezaJoodi)
-, But they will be just informing and I can't spend more time to check comments.  
+, But they are just informing and I can't spend more time to check comments.  
 Please, follow, fork and star me on the GitHub.
 
 Thanks
 
-
+<!--
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaJoodi&layout=compact)
+-->
+
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRezaJoodi&hide=prs,issues,contribs&show_icons=true)

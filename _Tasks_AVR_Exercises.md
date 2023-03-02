@@ -5,5 +5,5 @@
 - [ ] DS1307
 - [x] Encoder
 - [x] Bar Display Library
-- [ ] Avrege Library
+- [x] Average Library
 - [ ] find a reserve register on the AVR

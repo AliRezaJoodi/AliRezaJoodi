@@ -49,6 +49,10 @@ AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR
 AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR
 - ADC.h
 
+### Average
+AVR_Exercises\Average\Code_CodeVisionAVR 
+- Average.h
+
 ### ADC Reading
 AVR_Exercises\Sensor_Temperature_LM35\Code_BascomAVR\v3.1.bas
 - Included sampling and averaging

@@ -26,7 +26,7 @@ AVR_Exercises\Display_LCD_BarGraph\Code_BascomAVR
 - BarGraph_Function.inc
 
 ### Converter
-AVR_Exercises\DAC_with PWM\Code_CodeVisionAVR
+AVR_Exercises\DAC_UsingPWM\Code_CodeVisionAVR
 - Converter.h
 
 ### PID Control System
@@ -41,21 +41,21 @@ AVR_Projects_Beginning\Control Systems_OnOff\Code_CodeVisionAVR
 AVR_Exercises\Keypad_4x4\Code_CodeVisionAVR\v1.0.c
 - Keypad_4x4.h
 
-### LM35
+### LM35 Sensor
 AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR 
 - LM35.h
 
-### Config_ADC.h
-AVR_Exercises\ADC_10Bit_AREF VREF\Code_CodeVisionAVR
-- Config_ADC.h
+### Internal ADC
+AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR
+- ADC.h
 
 ### ADC Reading
 AVR_Exercises\Sensor_Temperature_LM35\Code_BascomAVR\v3.1.bas
 - Included sampling and averaging
 
 ### Display ^c
-AVR_Exercises\Sensor_Thermocouple_TypeK\Code_CodeVisionAVR
-- Define_Char.h
+AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR
+- Character.h
 
 AVR_Exercises\Sensor_Temperature_DS18B20\Code_BascomAVR\v1.0.bas
 

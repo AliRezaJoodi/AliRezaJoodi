@@ -53,6 +53,8 @@ AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR
 AVR_Exercises\Average\Code_CodeVisionAVR 
 - Average.h
 
+AVR_Exercises\Sensor_Temperature_LM35\Code_BascomAVR\v3.1.bas
+
 ### ADC Reading
 AVR_Exercises\Sensor_Temperature_LM35\Code_BascomAVR\v3.1.bas
 - Included sampling and averaging
@@ -116,8 +118,6 @@ AVR_Exercises\Display_LCD_Syntax\Code_mikroC PRO for AVR\v1_0.c
 AVR_Exercises\Include External Files\Code_CodeVisionAVR\Attachment\Hardware_v1.0  
 AVR_Exercises\Include External Files\Code_BascomAVR\Attachment\Hardware_v1.0
 
-### Avrege
-AVR_Exercises\Sensor_Temperature_LM35\Code_BascomAVR\v3.1.bas
 
 
 

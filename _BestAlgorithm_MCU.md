@@ -2,6 +2,9 @@
 AVR_Exercises\ADC_ExternalADC_MCP3204_SPI\Code_CodeVisionAVR
 - MCP320x.h
 
+### Digital Water Level Meter
+DigitalWaterLevelMeter_Ultrasonic_SRF05_LCD
+
 ### Internal EEPROM
 AVR_Exercises\EEPROM\Code_CodeVisionAVR
 - _EEPROM.h

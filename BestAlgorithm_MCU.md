@@ -10,7 +10,7 @@ AVR_Exercises\EEPROM\Code_CodeVisionAVR
 - _EEPROM.h
 
 ### Buzzer
-AVR_Exercises\Sound\Code_CodeVisionAVR
+AVR_Exercises\Buzzer\Code_CodeVisionAVR_v2
 - Buzzer.h
 
 ### MCP3202/MCP3204/MCP3208

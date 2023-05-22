@@ -25,6 +25,6 @@
 
 ## Electronics_Modules
 - [ ] Display_GLCD_KS0108_64x128
-- [x] in `PowerSupply_Flyback` Put a diode for snubber 
+- [x] In `PowerSupply_Flyback` Put a diode for snubber 
 
 

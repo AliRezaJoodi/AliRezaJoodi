@@ -1,6 +1,9 @@
 ## Books
 [BookBenefits.com](https://www.bookbenefits.com/)
 
+## Article
+[Noise suppression and improvement](https://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c39e.ashx)
+
 ## Websites List
 [instructables.com](https://www.instructables.com/projects)
 [sound-au.com](https://sound-au.com/)

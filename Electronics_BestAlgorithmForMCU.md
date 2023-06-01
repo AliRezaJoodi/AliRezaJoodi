@@ -29,8 +29,8 @@ AVR_Exercises\Display_LCD_BarGraph\Code_BascomAVR
 - BarGraph_Function.inc
 
 ### Converter
-AVR_Exercises\DAC_UsingPWM\Code_CodeVisionAVR
-- Converter.h
+AVR_Exercises\DAC_WithPWM\Code_CodeVisionAVR
+- DataConverter.h
 
 ### PID Control System
 AVR_Projects_Beginning\Control Systems_PID\Code_CodeVisionAVR

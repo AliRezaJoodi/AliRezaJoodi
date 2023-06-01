@@ -24,6 +24,7 @@
 - [ ] In `TextDisplay_LCD_USB` Create simulation file
 
 ## Electronics_Modules
+- [x] Add VDD and GND pin in circuits drawn in the Proteus
 - [ ] Display_GLCD_KS0108_64x128
 - [x] In `PowerSupply_Flyback` Put a diode for snubber 
 

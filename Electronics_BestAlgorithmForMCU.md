@@ -33,11 +33,11 @@ AVR_Exercises\DAC_WithPWM\Code_CodeVisionAVR
 - DataConverter.h
 
 ### PID Control System
-AVR_Projects_Beginning\Control Systems_PID\Code_CodeVisionAVR
+AVR_Exercises\Control Systems_PID\Code_CodeVisionAVR
 - ControlSystem_PID.h
 
 ### ON/OFF Control System
-AVR_Projects_Beginning\Control Systems_OnOff\Code_CodeVisionAVR
+AVR_Exercises\Control Systems_OnOff\Code_CodeVisionAVR
 - ControlSystem_OnOff.h
 
 ### 4x4 Keypad

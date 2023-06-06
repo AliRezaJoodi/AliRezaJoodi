@@ -2,6 +2,9 @@
 - [ ] In `Calculator_LCD` Edite CodeVisionAVR code
 
 ## AVR_Exercises
+- [ ] Drive SIM800c with CodeVisionAVR
+- [ ] Drive OLED with CodeVisionAVR
+- [ ] Practice Structure in C
 - [x] Clock and Date with Internal Timer (CodeVisionAVR)
 - [x] Frequency Meter with LCD Display (CodeVisionAVR)
 - [ ] Send Data with ASK RF Module
@@ -10,6 +13,7 @@
 - [x] Bar Display Library
 - [x] Average Library
 - [ ] find a reserve register on the AVR
+- [ ] PCA9536 (4-bit I2C-bus and SMBus I/O port)
 
 ## PIC_Projects
 - [ ] Find PIC Basic PRO compiler

@@ -2,6 +2,9 @@
 AVR_Exercises\ADC_ExternalADC_MCP3204_SPI\Code_CodeVisionAVR
 - MCP320x.h
 
+### Disable a Module
+AVR_Exercises\Display_LCD_Menu\Code_CodeVisionAVR
+
 ### Digital Water Level Meter
 DigitalWaterLevelMeter_Ultrasonic_SRF05_LCD
 

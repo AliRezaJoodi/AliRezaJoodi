@@ -2,9 +2,11 @@
 - [ ] In `Calculator_LCD` Edite CodeVisionAVR code
 
 ## AVR_Exercises
+- [ ] ADS1110 with CodeVisionAVR
+- [ ] CRC16
 - [ ] Drive SIM800c with CodeVisionAVR
 - [ ] Drive OLED with CodeVisionAVR
-- [ ] Practice Structure in C
+- [x] Practice Structure in C
 - [x] Clock and Date with Internal Timer (CodeVisionAVR)
 - [x] Frequency Meter with LCD Display (CodeVisionAVR)
 - [ ] Send Data with ASK RF Module
@@ -28,6 +30,7 @@
 - [ ] In `TextDisplay_LCD_USB` Create simulation file
 
 ## Electronics_Modules
+- [ ] Dimmer Controler with MOC3042
 - [x] Add VDD and GND pin in circuits drawn in the Proteus
 - [ ] Display_GLCD_KS0108_64x128
 - [x] In `PowerSupply_Flyback` Put a diode for snubber 

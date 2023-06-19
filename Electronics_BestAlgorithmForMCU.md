@@ -16,8 +16,8 @@ AVR_Exercises\EEPROM\Code_CodeVisionAVR
 AVR_Exercises\Buzzer\Code_CodeVisionAVR_v2
 - Buzzer.h
 
-### MCP3202/MCP3204/MCP3208
-AVR_Exercises\ADC_ExternalADC_MCP3204_SPI\Code_CodeVisionAVR
+### MCP320x
+AVR_Exercises\ADC_ExternalADC_MCP320x_SPI\Code_CodeVisionAVR
 - MCP320x.h
 
 ### Encoder

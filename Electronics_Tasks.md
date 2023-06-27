@@ -2,6 +2,7 @@
 - [ ] In `Calculator_LCD` Edite CodeVisionAVR code
 
 ## AVR_Exercises
+- [ ] Timer1 with CodeVisionAVR 
 - [ ] ADS1110 with CodeVisionAVR
 - [ ] CRC16
 - [ ] Drive SIM800c with CodeVisionAVR
@@ -10,7 +11,7 @@
 - [x] Clock and Date with Internal Timer (CodeVisionAVR)
 - [x] Frequency Meter with LCD Display (CodeVisionAVR)
 - [ ] Send Data with ASK RF Module
-- [ ] DS1307 (TWI)
+- [x] DS1307 (TWI)
 - [x] DS1307 (bit-banged I2C)
 - [x] Encoder
 - [x] Bar Display Library

@@ -5,6 +5,8 @@
 [Noise suppression and improvement](https://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c39e.ashx)
 
 ## Websites List
+[PCB Layout with Altium.com](https://resources.altium.com/pcb-layout?page=2)
+[Altium Experts ](https://resources.altium.com/experts?page=2)
 [Arduino Projects, IOT Projects](https://iotprojectsideas.com/)
 [instructables.com](https://www.instructables.com/projects)
 [sound-au.com](https://sound-au.com/)

@@ -2,6 +2,7 @@
 - [ ] In `Calculator_LCD` Edite CodeVisionAVR code
 
 ## AVR_Exercises
+- [ ] Miladi to Shamsi with CodeVisionAVR
 - [ ] Timer1 with CodeVisionAVR 
 - [ ] ADS1110 with CodeVisionAVR
 - [ ] CRC16

@@ -3,6 +3,7 @@
 
 ## Article
 [Noise suppression and improvement](https://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c39e.ashx)
+[Dual Supply / Single Supply / Rail-to-Rail Op Amps](https://www.rohm.com/electronics-basics/opamps/op-amp-types)
 
 ## Websites List
 [PCB Layout with Altium.com](https://resources.altium.com/pcb-layout?page=2)

@@ -2,8 +2,12 @@
 AVR_Exercises\ADC_ExternalADC_MCP3204_SPI\Code_CodeVisionAVR
 - MCP320x.h
 
-### Disable a Module
-AVR_Exercises\Display_LCD_Menu\Code_CodeVisionAVR
+### Setting Mode with Buttons
+ClockWithInternalTimer&Thermometer_LCD
+
+### Create Menu
+AVR_Exercises\Display_LCD_Menu\Code_CodeVisionAVR  
+AVR_Projects_Beginning\Clock and Date with Internal Timer\Code_BascomAVR\v1.0.bas  
 
 ### Digital Water Level Meter
 DigitalWaterLevelMeter_Ultrasonic_SRF05_LCD
@@ -99,9 +103,6 @@ AVR_Exercises\Display_Matrix_8x8\Code_BascomAVR
 AVR_Exercises\Display_7Segment_8Digit\Code_BascomAVR\v2.0.bas  
 AVR_Exercises\Display_7Segment_8Digit\Code_CodeVisionAVR
 - Driver_7Segment.h
-
-### Create Menu
-AVR_Projects_Beginning\Clock and Date with Internal Timer\Code_BascomAVR\v1.0.bas
 
 ### Get Button
 AVR_Exercises\Button\Code_BascomAVR\v1.0.bas

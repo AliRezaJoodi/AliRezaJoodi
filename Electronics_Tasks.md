@@ -1,4 +1,5 @@
 ## AVR_Projects
+- [ ] In `ClockWithDS1307&Thermometer_LCD` Add CodeVisionAVR code
 - [ ] In `Calculator_LCD` Edite CodeVisionAVR code
 
 ## AVR_Exercises

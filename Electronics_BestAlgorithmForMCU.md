@@ -2,6 +2,9 @@
 AVR_Exercises\ADC_ExternalADC_MCP3204_SPI\Code_CodeVisionAVR
 - MCP320x.h
 
+### DS1307
+F:\GitHub\AVR_Exercises\RTC_DS1307\Code_CodeVisionAVR_TWI
+
 ### Setting Mode with Buttons
 ClockWithInternalTimer&Thermometer_LCD
 

@@ -3,7 +3,8 @@
 - [ ] In `Calculator_LCD` Edite CodeVisionAVR code
 
 ## AVR_Exercises
-- [ ] Miladi to Shamsi with CodeVisionAVR
+- [ ] Fix the WatchDog
+- [x] Miladi to Shamsi with CodeVisionAVR
 - [ ] Timer1 with CodeVisionAVR 
 - [ ] ADS1110 with CodeVisionAVR
 - [ ] CRC16
@@ -18,7 +19,7 @@
 - [x] Encoder
 - [x] Bar Display Library
 - [x] Average Library
-- [ ] find a reserve register on the AVR
+- [ ] find a reserved bits on the AVR
 - [ ] PCA9536 (4-bit I2C-bus and SMBus I/O port)
 
 ## PIC_Projects

@@ -3,7 +3,8 @@ AVR_Exercises\ADC_ExternalADC_MCP3204_SPI\Code_CodeVisionAVR
 - MCP320x.h
 
 ### DS1307
-F:\GitHub\AVR_Exercises\RTC_DS1307\Code_CodeVisionAVR_TWI
+AVR_Exercises\RTC_DS1307\Code_CodeVisionAVR_TWI  
+AVR_Exercises\RTC_DS1307\Code_BascomAVR_I2C  
 
 ### Setting Mode with Buttons
 ClockWithInternalTimer&Thermometer_LCD
@@ -92,10 +93,6 @@ AVR_Exercises\Display_LED\Code_BascomAVR
 ### shtxx
 AVR_Exercises\Sensor_Humidity_SHT10\Code_CodeVisionAVR
 - shtxx.h
-
-### Int to MSB and LSB Converter
-AVR_Exercises\Converter_MSB and LSB\Code_CodeVisionAVR
-- Converter_MsbLsb.h
 
 AVR_Exercises\Converter_MSB and LSB\Code_BascomAVR\v1.0.bas
 

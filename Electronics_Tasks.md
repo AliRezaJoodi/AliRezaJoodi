@@ -3,9 +3,13 @@
 - [ ] In `Calculator_LCD` Edite CodeVisionAVR code
 
 ## AVR_Exercises
+- [ ] Timer2_Counter with CodeVisionAVR
+- [x] Timer1_Counter with CodeVisionAVR
+- [ ] MAX31855 TC Sensor
+- [ ] MAX31865 For RTD Sensor
 - [ ] Fix the WatchDog
 - [x] Miladi to Shamsi with CodeVisionAVR
-- [ ] Timer1 with CodeVisionAVR 
+- [x] Timer1 with CodeVisionAVR
 - [ ] ADS1110 with CodeVisionAVR
 - [ ] CRC16
 - [ ] Drive SIM800c with CodeVisionAVR

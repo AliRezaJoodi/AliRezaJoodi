@@ -2,12 +2,21 @@
 AVR_Exercises\ADC_ExternalADC_MCP3204_SPI\Code_CodeVisionAVR
 - MCP320x.h
 
+### Timer0
+AVR_Exercises\Timer0_Timer\Code_CodeVisionAVR
+
+### Timer1
+AVR_Exercises\Timer1_Timer\Code_CodeVisionAVR
+
+### Timer2
+AVR_Exercises\Timer2_Timer\Code_CodeVisionAVR
+
 ### DS1307
 AVR_Exercises\RTC_DS1307\Code_CodeVisionAVR_TWI  
 AVR_Exercises\RTC_DS1307\Code_BascomAVR_I2C  
 
 ### Setting Mode with Buttons
-ClockWithInternalTimer&Thermometer_LCD
+AVR_Projects\ClockWithTimer2&Thermometer_LCD
 
 ### Create Menu
 AVR_Exercises\Display_LCD_Menu\Code_CodeVisionAVR  

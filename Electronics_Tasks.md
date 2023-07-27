@@ -1,8 +1,11 @@
 ## AVR_Projects
-- [ ] In `ClockWithDS1307&Thermometer_LCD` Add CodeVisionAVR code
-- [ ] In `Calculator_LCD` Edite CodeVisionAVR code
+- [x] 1-Phase Dimmer with CodeVisionAVR
 
 ## AVR_Exercises
+- [ ] INA219 Zero-Drift, Bidirectional Current/Power Monitor With I2C Interface
+- [ ] Modularization ADC
+- [x] Modularization External INT
+- [ ] PulseGenerator_TriacTriggerPulseWithPWM_ChangeableOutput
 - [ ] Timer2_Counter with CodeVisionAVR
 - [x] Timer1_Counter with CodeVisionAVR
 - [ ] MAX31855 TC Sensor
@@ -39,7 +42,8 @@
 - [ ] In `TextDisplay_LCD_USB` Create simulation file
 
 ## Electronics_Modules
-- [ ] Dimmer Controler with MOC3042
+- [ ] SCR Trigger With MOC3021
+- [x] Dimmer Controler with MOC3042
 - [x] Add VDD and GND pin in circuits drawn in the Proteus
 - [ ] Display_GLCD_KS0108_64x128
 - [x] In `PowerSupply_Flyback` Put a diode for snubber 

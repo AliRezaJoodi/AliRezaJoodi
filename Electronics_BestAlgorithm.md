@@ -1,6 +1,8 @@
 ### Best format for library
 AVR_Exercises\ADC_ExternalADC_MCP3204_SPI\Code_CodeVisionAVR
-- MCP320x.h
+
+### External INT
+AVR_Exercises\Interrupt_INT0\Code_CodeVisionAVR
 
 ### Timer0
 AVR_Exercises\Timer0_Timer\Code_CodeVisionAVR
@@ -27,60 +29,41 @@ DigitalWaterLevelMeter_Ultrasonic_SRF05_LCD
 
 ### Internal EEPROM
 AVR_Exercises\EEPROM\Code_CodeVisionAVR
-- _EEPROM.h
 
 ### Buzzer
 AVR_Exercises\Buzzer\Code_CodeVisionAVR_v2
-- Buzzer.h
 
 ### MCP320x
 AVR_Exercises\ADC_ExternalADC_MCP320x_SPI\Code_CodeVisionAVR
-- MCP320x.h
 
 ### Encoder
 AVR_Exercises\Encoder\Code_CodeVisionAVR
-- Encoder.h
 
 ### BarGraph on the 16x2 LCD
-AVR_Exercises\Display_LCD_BarGraph\Code_CodeVisionAVR
-- BarGraph.h
- 
-AVR_Exercises\Display_LCD_BarGraph\Code_BascomAVR
-- BarGraph_Function.inc
+AVR_Exercises\Display_LCD_BarGraph\Code_CodeVisionAVR  
+AVR_Exercises\Display_LCD_BarGraph\Code_BascomAVR  
 
 ### Converter
 AVR_Exercises\DAC_WithPWM\Code_CodeVisionAVR
-- DataConverter.h
 
 ### PID Control System
-AVR_Exercises\Control Systems_PID\Code_CodeVisionAVR
-- ControlSystem_PID.h
+AVR_Exercises\ControlSystems_PID\Code_CodeVisionAVR
 
 ### ON/OFF Control System
-AVR_Exercises\Control Systems_OnOff\Code_CodeVisionAVR
-- ControlSystem_OnOff.h
+AVR_Exercises\ControlSystems_OnOff\Code_CodeVisionAVR
 
 ### 4x4 Keypad
 AVR_Exercises\Keypad_4x4\Code_CodeVisionAVR\v1.0.c
-- Keypad_4x4.h
 
 ### LM35 Sensor
 AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR 
-- LM35.h
-
-### Internal ADC
-AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR
-- ADC.h
 
 ### Average
-AVR_Exercises\Average\Code_CodeVisionAVR 
-- Average.h
-
+AVR_Exercises\Average\Code_CodeVisionAVR  
 AVR_Exercises\Sensor_Temperature_LM35\Code_BascomAVR\v3.1.bas
 
-### ADC Reading
-AVR_Exercises\Sensor_Temperature_LM35\Code_BascomAVR\v3.1.bas
-- Included sampling and averaging
+### ADC
+AVR_Exercises\ADC_10Bit_AVCC  
 
 ### Display ^c
 AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR
@@ -90,20 +73,14 @@ AVR_Exercises\Sensor_Temperature_DS18B20\Code_BascomAVR\v1.0.bas
 
 ### Type K Thermocouple
 Sensor_Thermocouple_TypeK\Code_CodeVisionAVR
-- Thermocouple_K.h
 
 ### LED
-AVR_Exercises\Display_LED\Code_CodeVisionAVR
-- LED.h
-
-AVR_Exercises\Display_LED\Code_BascomAVR
-- LED_Functions.inc
+AVR_Exercises\Display_LED\Code_CodeVisionAVR  
+AVR_Exercises\Display_LED\Code_BascomAVR  
 
 ### shtxx
-AVR_Exercises\Sensor_Humidity_SHT10\Code_CodeVisionAVR
-- shtxx.h
-
-AVR_Exercises\Converter_MSB and LSB\Code_BascomAVR\v1.0.bas
+AVR_Exercises\Sensor_Humidity_SHT10\Code_CodeVisionAVR  
+AVR_Exercises\Converter_MSB and LSB\Code_BascomAVR\v1.0.bas  
 
 ### 8×8 Dot Matrix Driver
 AVR_Exercises\Display_Matrix_8x8\Code_BascomAVR

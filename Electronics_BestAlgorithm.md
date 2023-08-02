@@ -1,6 +1,9 @@
 ### Best format for library
 AVR_Exercises\ADC_ExternalADC_MCP3204_SPI\Code_CodeVisionAVR
 
+### ADC
+AVR_Exercises\ADC_10Bit_AVCC  
+
 ### External INT
 AVR_Exercises\Interrupt_INT0\Code_CodeVisionAVR
 
@@ -60,16 +63,11 @@ AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR
 
 ### Average
 AVR_Exercises\Average\Code_CodeVisionAVR  
-AVR_Exercises\Sensor_Temperature_LM35\Code_BascomAVR\v3.1.bas
-
-### ADC
-AVR_Exercises\ADC_10Bit_AVCC  
+AVR_Exercises\Sensor_Temperature_LM35\Code_BascomAVR\v3.1.bas  
 
 ### Display ^c
-AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR
-- Character.h
-
-AVR_Exercises\Sensor_Temperature_DS18B20\Code_BascomAVR\v1.0.bas
+AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR  
+AVR_Exercises\Sensor_Temperature_DS18B20\Code_BascomAVR\v1.0.bas  
 
 ### Type K Thermocouple
 Sensor_Thermocouple_TypeK\Code_CodeVisionAVR

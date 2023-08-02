@@ -2,9 +2,13 @@
 - [x] 1-Phase Dimmer with CodeVisionAVR
 
 ## AVR_Exercises
+- [ ] PulseGenerator_TriacTriggerPulseWithPWM With 50Hz
+- [ ] Check PullUp register
+- [x] Edit Library of the Timers
+- [x] Edit Library of the External INT
 - [ ] INA219 Zero-Drift, Bidirectional Current/Power Monitor With I2C Interface
-- [ ] Modularization ADC
-- [x] Modularization External INT
+- [x] Create Library For ADC
+- [x] Create Library For External INT
 - [ ] PulseGenerator_TriacTriggerPulseWithPWM_ChangeableOutput
 - [ ] Timer2_Counter with CodeVisionAVR
 - [x] Timer1_Counter with CodeVisionAVR

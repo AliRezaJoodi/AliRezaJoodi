@@ -3,7 +3,7 @@
 
 ## AVR_Exercises
 - [ ] PulseGenerator_TriacTriggerPulseWithPWM With 50Hz
-- [ ] Check PullUp register
+- [x] Check PullUp register
 - [x] Edit Library of the Timers
 - [x] Edit Library of the External INT
 - [ ] INA219 Zero-Drift, Bidirectional Current/Power Monitor With I2C Interface

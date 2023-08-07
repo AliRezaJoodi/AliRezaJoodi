@@ -47,7 +47,7 @@ AVR_Exercises\Display_LCD_BarGraph\Code_CodeVisionAVR
 AVR_Exercises\Display_LCD_BarGraph\Code_BascomAVR  
 
 ### Converter
-AVR_Exercises\DAC_WithPWM\Code_CodeVisionAVR
+AVR_Exercises\Converter_MSB&LSB\Code_CodeVisionAVR
 
 ### PID Control System
 AVR_Exercises\ControlSystems_PID\Code_CodeVisionAVR

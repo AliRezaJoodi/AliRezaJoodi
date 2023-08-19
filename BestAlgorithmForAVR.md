@@ -1,21 +1,6 @@
 ### Best format for library
 AVR_Exercises\ADC_ExternalADC_MCP3204_SPI\Code_CodeVisionAVR
 
-### ADC
-AVR_Exercises\ADC_10Bit_AVCC  
-
-### External INT
-AVR_Exercises\Interrupt_INT0\Code_CodeVisionAVR
-
-### Timer0
-AVR_Exercises\Timer0_Timer\Code_CodeVisionAVR
-
-### Timer1
-AVR_Exercises\Timer1_Timer\Code_CodeVisionAVR
-
-### Timer2
-AVR_Exercises\Timer2_Timer\Code_CodeVisionAVR
-
 ### DS1307
 AVR_Exercises\RTC_DS1307\Code_CodeVisionAVR_TWI  
 AVR_Exercises\RTC_DS1307\Code_BascomAVR_I2C  
@@ -36,49 +21,18 @@ AVR_Exercises\EEPROM\Code_CodeVisionAVR
 ### Buzzer
 AVR_Exercises\Buzzer\Code_CodeVisionAVR_v2
 
-### MCP320x
-AVR_Exercises\ADC_ExternalADC_MCP320x_SPI\Code_CodeVisionAVR
-
 ### Encoder
 AVR_Exercises\Encoder\Code_CodeVisionAVR
 
 ### BarGraph on the 16x2 LCD
-AVR_Exercises\Display_LCD_BarGraph\Code_CodeVisionAVR  
 AVR_Exercises\Display_LCD_BarGraph\Code_BascomAVR  
 
-### Converter
-AVR_Exercises\Converter_MSB&LSB\Code_CodeVisionAVR
-
-### PID Control System
-AVR_Exercises\ControlSystems_PID\Code_CodeVisionAVR
-
-### ON/OFF Control System
-AVR_Exercises\ControlSystems_OnOff\Code_CodeVisionAVR
-
-### 4x4 Keypad
-AVR_Exercises\Keypad_4x4\Code_CodeVisionAVR\v1.0.c
-
-### LM35 Sensor
-AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR 
-
 ### Average
-AVR_Exercises\Average\Code_CodeVisionAVR  
 AVR_Exercises\Sensor_Temperature_LM35\Code_BascomAVR\v3.1.bas  
 
 ### Display ^c
 AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR  
-AVR_Exercises\Sensor_Temperature_DS18B20\Code_BascomAVR\v1.0.bas  
-
-### Type K Thermocouple
-Sensor_Thermocouple_TypeK\Code_CodeVisionAVR
-
-### LED
-AVR_Exercises\Display_LED\Code_CodeVisionAVR  
-AVR_Exercises\Display_LED\Code_BascomAVR  
-
-### shtxx
-AVR_Exercises\Sensor_Humidity_SHT10\Code_CodeVisionAVR  
-AVR_Exercises\Converter_MSB and LSB\Code_BascomAVR\v1.0.bas  
+AVR_Exercises\Sensor_Temperature_DS18B20\Code_BascomAVR\v1.0.bas   
 
 ### 8×8 Dot Matrix Driver
 AVR_Exercises\Display_Matrix_8x8\Code_BascomAVR
@@ -87,13 +41,6 @@ AVR_Exercises\Display_Matrix_8x8\Code_BascomAVR
 AVR_Exercises\Display_7Segment_8Digit\Code_BascomAVR\v2.0.bas  
 AVR_Exercises\Display_7Segment_8Digit\Code_CodeVisionAVR
 - Driver_7Segment.h
-
-### Get Button
-AVR_Exercises\Button\Code_BascomAVR\v1.0.bas
-- There are different moods
-
-AVR_Exercises\Button\Code_CodeVisionAVR\v1.0.c
-- Button.h
 
 ### Start text on the LCD
 AVR_Exercises\Display_LCD_Syntax\Code_BascomAVR\v1.0.bas
@@ -104,10 +51,6 @@ AVR_Exercises\Display_LCD_Syntax\Code_CodeVisionAVR\v1.0.c
 
 AVR_Exercises\Display_LCD_Syntax\Code_mikroC PRO for AVR\v1_0.c
 - Included `Display_loading` and `Display_Advertising`
- 
-### Alias for IO
-AVR_Exercises\Include External Files\Code_CodeVisionAVR\Attachment\Hardware_v1.0  
-AVR_Exercises\Include External Files\Code_BascomAVR\Attachment\Hardware_v1.0
 
 
 

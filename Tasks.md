@@ -1,3 +1,11 @@
+## STM32_Exercises
+- [ ] Single 7-Segment
+- [ ] Interrupt
+- [ ] Simulation with Keil
+- [x] Utiltiy Function
+- [ ] Delay function
+- [x] RCC registers
+
 ## AVR_Projects
 - [x] 1-Phase Dimmer with CodeVisionAVR
 

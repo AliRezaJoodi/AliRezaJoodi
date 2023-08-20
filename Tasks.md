@@ -1,4 +1,5 @@
 ## STM32_Exercises
+- [ ] Configure Input pin (A0, A4, A5 nad A6) 
 - [ ] Single 7-Segment
 - [ ] Interrupt
 - [ ] Simulation with Keil

@@ -1,10 +1,14 @@
 ## STM32_Exercises
-- [ ] Configure Input pin (A0, A4, A5 nad A6) 
-- [ ] Single 7-Segment
-- [ ] Interrupt
+- [ ] UART
+- [ ] Add lock in GPIO Driver
+- [ ] Creat a function in header file
+- [x] Use other macro in a header file
+- [x] Configure Input pin (A0, A4, A5 nad A6) 
+- [x] Single 7-Segment
+- [x] Interrupt
 - [ ] Simulation with Keil
 - [x] Utiltiy Function
-- [ ] Delay function
+- [x] Delay function (Didn't work in Proteus)
 - [x] RCC registers
 
 ## AVR_Projects

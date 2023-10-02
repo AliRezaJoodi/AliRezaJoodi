@@ -1,7 +1,11 @@
 ## STM32_Exercises
-- [ ] UART
+- [ ] ADC
+- [x] Integer to String
+- [ ] SysTick
+- [ ] delay_us function with timer
+- [x] 16x2 LCD
+- [x] UART
 - [ ] Add lock in GPIO Driver
-- [ ] Creat a function in header file
 - [x] Use other macro in a header file
 - [x] Configure Input pin (A0, A4, A5 nad A6) 
 - [x] Single 7-Segment

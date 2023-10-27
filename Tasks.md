@@ -1,5 +1,8 @@
 ## STM32_Exercises
+- [ ] KeyPad
 - [ ] ADC
+- [x] 4-Digit 7-Segment
+- [x] 1-Digit 7-Segment
 - [x] Integer to String
 - [ ] SysTick
 - [ ] delay_us function with timer

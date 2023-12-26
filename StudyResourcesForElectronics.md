@@ -24,5 +24,9 @@
 [Full SINE Inverter PCB at 230V and 50Hz](https://www.pcbway.com/project/shareproject/FULL_SINE_INVERTER_500W_9f4e6ded.html)  
 [220V-AC to 12V-DC 18W Switching Power Supply](https://www.pcbway.com/blog/technology/220V_AC_to_12V_DC_18W_Switching_Power_Supply_81665a6c.html)
 
+## Tools
+[DC Wire Size Calculator](https://www.omnicalculator.com/physics/dc-wire-size)
+[Capacitor Discharge Calculator](https://www.redcrab-software.com/en/Calculator/Electrics/C-Discharge-State)
+
 ## Other
 [Relays & How To Use Them - Part 2](https://sound-au.com/articles/relays2.htm)     

@@ -17,6 +17,7 @@
 - [x] Utiltiy Function
 - [x] Delay function (Didn't work in Proteus)
 - [x] RCC registers
+- [ ] TM1638
 
 ## AVR_Projects
 - [x] 1-Phase Dimmer with CodeVisionAVR

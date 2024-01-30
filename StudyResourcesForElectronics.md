@@ -28,6 +28,8 @@
 [DC Wire Size Calculator](https://www.omnicalculator.com/physics/dc-wire-size)
 [Capacitor Discharge Calculator](https://www.redcrab-software.com/en/Calculator/Electrics/C-Discharge-State)
 [Capacitor Impedance Calculator](https://www.allaboutcircuits.com/tools/capacitor-impedance-calculator/)
+[PCB footprints and schematic symbols](https://www.snapeda.com/)
+[FREE 3D and 2D CAD Models](https://www.3dcontentcentral.com/Default.aspx)
 
 ## Other
 [Relays & How To Use Them - Part 2](https://sound-au.com/articles/relays2.htm)     

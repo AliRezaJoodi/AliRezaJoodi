@@ -25,10 +25,12 @@
 [220V-AC to 12V-DC 18W Switching Power Supply](https://www.pcbway.com/blog/technology/220V_AC_to_12V_DC_18W_Switching_Power_Supply_81665a6c.html)  
 
 ## Tools
+[PCB Trace Width Calculator](https://www.4pcb.com/trace-width-calculator.html)  
 [DC Wire Size Calculator](https://www.omnicalculator.com/physics/dc-wire-size)  
 [Capacitor Discharge Calculator](https://www.redcrab-software.com/en/Calculator/Electrics/C-Discharge-State)  
 [Capacitor Impedance Calculator](https://www.allaboutcircuits.com/tools/capacitor-impedance-calculator/)  
-[PCB footprints and schematic symbols](https://www.snapeda.com/)  
+[PCB footprints and schematic symbols](https://www.snapeda.com/)    
+[FREE 3D and 2D CAD Models](https://www.snapeda.com/home/)  
 [FREE 3D and 2D CAD Models](https://www.3dcontentcentral.com/Default.aspx)  
 
 ## Other

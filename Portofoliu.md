@@ -10,7 +10,7 @@
     <th>Picture</th>
     <th>Title</th>
     <th>IDE</th>
-    <th>More info</th>
+    <th>Link</th>
   </tr>
 
 <!--- **************************** --->
@@ -24,7 +24,7 @@
         />
     </td>
     <td>
-        Calculator with LCD Display <br />
+        Simple Calculator <br />
     </td>
     <td>
         CodeVision AVR <br />
@@ -32,7 +32,7 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Calculator_LCD" target="_top">
-        <span>Source Link</span>
+        <span>Open Source</span>
     </a></td>
   </tr>
 
@@ -56,7 +56,7 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ClockWithDS1307&Thermometer&Voltmeter_LCD" target="_top">
-        <span>Source Link</span>
+        <span>Open Source</span>
     </a></td>
   </tr>
 
@@ -79,7 +79,7 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ClockWithDS1307&Thermometer_LCD" target="_top">
-        <span>Source Link</span>
+        <span>Open Source</span>
     </a></td>
   </tr>
 

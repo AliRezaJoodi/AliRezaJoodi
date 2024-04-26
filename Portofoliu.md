@@ -13,13 +13,14 @@
     <th>More info</th>
   </tr>
 
+<!--- **************************** --->
   <tr>
     <td>
         <img
         src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Calculator_LCD/Pictures/Album.jpg"
         alt="ts"
-        width="150"
-        height="70"
+        width="151"
+        height="69"
         />
     </td>
     <td>
@@ -34,14 +35,15 @@
         <span>Source Link</span>
     </a></td>
   </tr>
-  
+
+<!--- **************************** --->  
   <tr>
     <td>
         <img
         src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/ClockWithDS1307&Thermometer&Voltmeter_LCD/Pictures/Album.jpg"
         alt="ts"
-        width="150"
-        height="70"
+        width="151"
+        height="72"
         />
     </td>
     <td>
@@ -58,6 +60,30 @@
     </a></td>
   </tr>
 
+<!--- **************************** --->
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/ClockWithDS1307&Thermometer_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="76"
+        />
+    </td>
+    <td>
+        Clock With DS1307 RTC <br />
+        Thermometer With LM35 <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ClockWithDS1307&Thermometer_LCD" target="_top">
+        <span>Source Link</span>
+    </a></td>
+  </tr>
+
+<!--- **************************** --->  
   <tr>
     <td></td>
     <td></td>

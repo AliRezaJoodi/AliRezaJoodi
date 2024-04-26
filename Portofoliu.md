@@ -1,6 +1,6 @@
 
 
-# My Projects
+# My Portofoliu
 <!---  --->
 
 ### AVR Microcontroller Projects
@@ -9,10 +9,13 @@
   <tr>
     <th>Picture</th>
     <th>Title</th>
+    <th>IDE</th>
     <th>Description</th>
   </tr>
 
+  <!--- ######################################## --->
   <tr>
+    <!---  --->
     <td>
     <img
       src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Calculator_LCD/Pictures/Album.jpg"
@@ -21,10 +24,17 @@
       height="70"
     />
     </td>
+    <!---  --->
     <td>
-    Calculator with LCD Display <br />
+        Calculator with LCD Display <br />
     </td>
-        <td>
+    <!---  --->
+    <td>
+        CodeVision AVR <br />
+        Bascom AVR <br />
+    </td>
+    <!---  --->
+    <td>
         2024-04-25 <br/>
     <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Calculator_LCD" target="_top">
     <span>Source</span>
@@ -32,8 +42,9 @@
     </a></td>
   </tr>
   
-  
+  <!--- ######################################## --->  
   <tr>
+    <!---  --->
     <td>
     <img
       src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/ClockWithDS1307&Thermometer&Voltmeter_LCD/Pictures/Album.jpg"
@@ -42,12 +53,18 @@
       height="70"
     />
     </td>
+    <!---  --->
     <td>
     Clock With DS1307 RTC <br />
     Thermometer With LM35 <br />
     Voltmeter For 0~30V DC <br />
     </td>
-        <td>
+    <!---  --->
+    <td>
+    Bascom AVR <br />
+    </td>
+    <!---  --->
+    <td>
         2024-04-18 <br/>
     <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ClockWithDS1307&Thermometer&Voltmeter_LCD" target="_top">
     <span>Source</span>
@@ -55,8 +72,9 @@
     </a></td>
   </tr>
 
-
+  <!--- ######################################## --->
   <tr>
+    <td>.</td>
     <td>.</td>
     <td>.</td>
     <td>.</td>

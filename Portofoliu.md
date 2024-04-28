@@ -1,5 +1,3 @@
-
-
 # My Portofoliu
 <!---  --->
 
@@ -82,7 +80,54 @@
         <span>Open Source</span>
     </a></td>
   </tr>
+  
+<!--- **************************** --->
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/ClockWithTimer2&Thermometer_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="76"
+        />
+    </td>
+    <td>
+        Clock With Internal Timer <br />
+        Thermometer With LM35 <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ClockWithTimer2&Thermometer_LCD" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
 
+<!--- **************************** --->
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/ClockWithTimer2_7Segment/Simulate/Album.png"
+        alt="ts"
+        width="151"
+        height="49"
+        />
+    </td>
+    <td>
+        Clock With Internal Timer <br />
+        7-segment Display  <br />
+    </td>
+    <td>
+        CodeVision AVR <br />
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ClockWithTimer2_7Segment" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+  
 <!--- **************************** --->  
   <tr>
     <td></td>

@@ -186,7 +186,8 @@
         />
     </td>
     <td>
-        Code Lock With RFID (125KHz) <br />
+        Code Lock With RFID <br />
+        125KHz RFID Tag <br />
         16x2 LCD Display <br />
     </td>
     <td>
@@ -194,6 +195,52 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithRFID_LCD" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+ <!--- **************************** --->
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithRFID_LED/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="72"
+        />
+    </td>
+    <td>
+        Code Lock With RFID <br />
+        125KHz RFID Tag <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithRFID_LED" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+ <!--- **************************** --->
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithRFID_Standard/Hardware/Album.png"
+        alt="ts"
+        width="151"
+        height="82"
+        />
+    </td>
+    <td>
+        Code Lock With RFID <br />
+        125KHz RFID Tag <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithRFID_Standard" target="_top">
         <span>Open Source</span>
     </a></td>
   </tr>

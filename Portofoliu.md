@@ -1,6 +1,4 @@
-# My Portofoliu        CodeVision AVR <br /><!---  --->        CodeVision        CodeVision AVR <br />
 
- AVR <br /
 
 ### AVR Microcontroller Projects
 
@@ -152,7 +150,54 @@
         <span>Open Source</span>
     </a></td>
   </tr>
-    
+
+<!--- **************************** --->
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithKeypad4x4/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="79"
+        />
+    </td>
+    <td>
+        Code Lock <br />
+        4x4 Keypad  <br />
+        16x2 LCD Display <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithKeypad4x4" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+ <!--- **************************** --->
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithRFID_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="73"
+        />
+    </td>
+    <td>
+        Code Lock With RFID (125KHz) <br />
+        16x2 LCD Display <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithRFID_LCD" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+  
 <!--- **************************** --->  
   <tr>
     <td></td>

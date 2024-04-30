@@ -115,7 +115,7 @@
     </td>
     <td>
         Clock With Internal Timer <br />
-        7-segment Display  <br />
+        <span style="color:#999">7-segment Display</span> <br />
     </td>
     <td>
         CodeVision AVR <br />
@@ -139,8 +139,8 @@
     </td>
     <td>
         Code Lock <br />
-        4x3 Keypad  <br />
-        16x2 LCD Display <br />
+        <span style="color:#999">4x3 Keypad</span> <br />
+        <span style="color:#999">16x2 LCD Display</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -163,8 +163,8 @@
     </td>
     <td>
         Code Lock <br />
-        4x4 Keypad  <br />
-        16x2 LCD Display <br />
+        <span style="color:#999">4x4 Keypad</span> <br />
+        <span style="color:#999">16x2 LCD Display</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -187,8 +187,8 @@
     </td>
     <td>
         Code Lock With RFID <br />
-        125KHz RFID Tag <br />
-        16x2 LCD Display <br />
+        <span style="color:#999">125KHz RFID Tag</span> <br />
+        <span style="color:#999">16x2 LCD Display</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -211,7 +211,7 @@
     </td>
     <td>
         Code Lock With RFID <br />
-        125KHz RFID Tag <br />
+        <span style="color:#999">125KHz RFID Tag</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -234,7 +234,7 @@
     </td>
     <td>
         Code Lock With RFID <br />
-        125KHz RFID Tag <br />
+        <span style="color:#999">125KHz RFID Tag</span> <br />
     </td>
     <td>
         Bascom AVR <br />

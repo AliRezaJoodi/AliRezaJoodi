@@ -1,4 +1,3 @@
-        <span style="color:#999">125KHz RFID Tag</span> <br />
 
 ### AVR Microcontroller Projects
 
@@ -22,6 +21,8 @@
     </td>
     <td>
         Simple Calculator <br />
+        <span style="color:#999">4x4 Keypad</span> <br />
+        <span style="color:#999">16x2 LCD Display</span> <br />
     </td>
     <td>
         CodeVision AVR <br />
@@ -70,6 +71,7 @@
     <td>
         Clock With DS1307 RTC <br />
         Thermometer With LM35 <br />
+        <span style="color:#999">16x2 LCD Display</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -93,6 +95,7 @@
     <td>
         Clock With Internal Timer <br />
         Thermometer With LM35 <br />
+        <span style="color:#999">16x2 LCD Display</span> <br />
     </td>
     <td>
         Bascom AVR <br />

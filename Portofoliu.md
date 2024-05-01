@@ -1,4 +1,4 @@
-
+        <span style="color:#999">125KHz RFID Tag</span> <br />
 
 ### AVR Microcontroller Projects
 
@@ -241,6 +241,99 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithRFID_Standard" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+  <!--- **************************** --->
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithTelCard_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="73"
+        />
+    </td>
+    <td>
+        Code Lock With TelCard <br />
+        <span style="color:#999">16x2 LCD Display</span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithTelCard_LCD" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+   <!--- **************************** --->
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithTelCard_LED/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="68"
+        />
+    </td>
+    <td>
+        Code Lock With TelCard <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithTelCard_LED" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+   <!--- **************************** --->
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/ConferenceTimer_7Segment_ATmega8/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="106"
+        />
+    </td>
+    <td>
+        Conference Timer <br />
+        <span style="color:#999">7-segment Display</span> <br />
+        <span style="color:#999">ATmega8 MCU</span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ConferenceTimer_7Segment_ATmega8" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+   <!--- **************************** --->
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/ConferenceTimer_7Segment_ATmega32/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="76"
+        />
+    </td>
+    <td>
+        Conference Timer <br />
+        <span style="color:#999">7-segment Display</span> <br />
+        <span style="color:#999">ATmega32 MCU</span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ConferenceTimer_7Segment_ATmega32" target="_top">
         <span>Open Source</span>
     </a></td>
   </tr>

@@ -410,7 +410,9 @@
         <span style="color:#999">16x2 LCD Display</span> <br />
     </td>
     <td>
+        CodeVision AVR <br />
         Bascom AVR <br />
+        mikroC PRO for AVR <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DigitalMeterWithUltrasonicMoudle_SRF02_LCD" target="_top">

@@ -9,7 +9,6 @@
     <th>Link</th>
   </tr>
 
-<!--- **************************** --->
   <tr>
     <td>
         <img
@@ -34,7 +33,6 @@
     </a></td>
   </tr>
 
-<!--- **************************** --->  
   <tr>
     <td>
         <img
@@ -57,8 +55,7 @@
         <span>Open Source</span>
     </a></td>
   </tr>
-
-<!--- **************************** --->
+  
   <tr>
     <td>
         <img
@@ -82,7 +79,6 @@
     </a></td>
   </tr>
   
-<!--- **************************** --->
   <tr>
     <td>
         <img
@@ -106,7 +102,6 @@
     </a></td>
   </tr>
 
-<!--- **************************** --->
   <tr>
     <td>
         <img
@@ -130,7 +125,6 @@
     </a></td>
   </tr>
 
-<!--- **************************** --->
   <tr>
     <td>
         <img
@@ -154,7 +148,6 @@
     </a></td>
   </tr>
 
-<!--- **************************** --->
   <tr>
     <td>
         <img
@@ -177,8 +170,7 @@
         <span>Open Source</span>
     </a></td>
   </tr>
- 
- <!--- **************************** --->
+
   <tr>
     <td>
         <img
@@ -202,7 +194,6 @@
     </a></td>
   </tr>
  
- <!--- **************************** --->
   <tr>
     <td>
         <img
@@ -225,7 +216,6 @@
     </a></td>
   </tr>
 
- <!--- **************************** --->
   <tr>
     <td>
         <img
@@ -248,7 +238,6 @@
     </a></td>
   </tr>
  
-  <!--- **************************** --->
   <tr>
     <td>
         <img
@@ -271,7 +260,6 @@
     </a></td>
   </tr>
  
-   <!--- **************************** --->
   <tr>
     <td>
         <img
@@ -285,6 +273,7 @@
         Code Lock With TelCard <br />
     </td>
     <td>
+        CodeVision AVR <br />
         Bascom AVR <br />
     </td>
     <td>
@@ -293,7 +282,6 @@
     </a></td>
   </tr>
 
-   <!--- **************************** --->
   <tr>
     <td>
         <img
@@ -317,7 +305,6 @@
     </a></td>
   </tr>
 
-   <!--- **************************** --->
   <tr>
     <td>
         <img
@@ -330,7 +317,6 @@
     <td>
         Conference Timer <br />
         <span style="color:#999">7-segment Display</span> <br />
-        <span style="color:#999">ATmega32 MCU</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -340,8 +326,144 @@
         <span>Open Source</span>
     </a></td>
   </tr>
+ 
+  <tr>
+    <td>
+        <img
+        src=""
+        alt="Null"
+        width="151"
+        height="66"
+        />
+    </td>
+    <td>
+        Counter with 2-Digit <br />
+        <span style="color:#999">7-segment Display</span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/tree/main/Counter_2Digit_7SegmentDisplay" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/DigitalMeterWithUltrasonicMoudle_SRF02_7Segment/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="66"
+        />
+    </td>
+    <td>
+        Digital Meter <br />
+        <span style="color:#999">SRF02 Ultrasonic Module</span> <br />
+        <span style="color:#999">7-segment Display</span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DigitalMeterWithUltrasonicMoudle_SRF02_7Segment" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/DigitalMeterWithUltrasonicMoudle_SRF02_GLCD/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="58"
+        />
+    </td>
+    <td>
+        Digital Meter <br />
+        <span style="color:#999">SRF02 Ultrasonic Module</span> <br />
+        <span style="color:#999">128x64 GLCD Display</span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DigitalMeterWithUltrasonicMoudle_SRF02_GLCD" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/DigitalMeterWithUltrasonicMoudle_SRF02_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="65"
+        />
+    </td>
+    <td>
+        Digital Meter <br />
+        <span style="color:#999">SRF02 Ultrasonic Module</span> <br />
+        <span style="color:#999">16x2 LCD Display</span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DigitalMeterWithUltrasonicMoudle_SRF02_LCD" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/DigitalMeterWithUltrasonicMoudle_SRF05_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="64"
+        />
+    </td>
+    <td>
+        Digital Meter <br />
+        <span style="color:#999">SRF05 Ultrasonic Module</span> <br />
+        <span style="color:#999">16x2 LCD Display</span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DigitalMeterWithUltrasonicMoudle_SRF05_LCD" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/DigitalWaterLevelMeterWithUltrasonicMoudle_SRF05_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="75"
+        />
+    </td>
+    <td>
+        Digital Water Level Meter <br />
+        <span style="color:#999">SRF05 Ultrasonic Module</span> <br />
+        <span style="color:#999">16x2 LCD Display</span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DigitalWaterLevelMeterWithUltrasonicMoudle_SRF05_LCD" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
   
-<!--- **************************** --->  
   <tr>
     <td></td>
     <td></td>

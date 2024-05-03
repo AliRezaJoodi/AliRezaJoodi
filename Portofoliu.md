@@ -5,7 +5,7 @@
   <tr>
     <th>Picture</th>
     <th>Title</th>
-    <th>IDE</th>
+    <th>Compiler</th>
     <th>Link</th>
   </tr>
 
@@ -462,6 +462,71 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DigitalWaterLevelMeterWithUltrasonicMoudle_SRF05_LCD" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Dimmer_1Phase_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="72"
+        />
+    </td>
+    <td>
+        Single Phase Dimmer<br />
+        <span style="color:#999">16x2 LCD Display</span> <br />
+    </td>
+    <td>
+        CodeVision AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Dimmer_1Phase_LCD" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/FlasherWithTriacs_16CH/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="129"
+        />
+    </td>
+    <td>
+        16CH Flashing Light with Triacs <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/FlasherWithTriacs_16CH" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/LineFollowerRobot/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="105"
+        />
+    </td>
+    <td>
+        Line Follower Robot <br />
+    </td>
+    <td>
+        CodeVision AVR <br />
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/LineFollowerRobot" target="_top">
         <span>Open Source</span>
     </a></td>
   </tr>

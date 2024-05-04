@@ -530,6 +530,90 @@
         <span>Open Source</span>
     </a></td>
   </tr>
+ 
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/PhoneBook_AT24C512/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="75"
+        />
+    </td>
+    <td>
+        Phone Book <br />
+        <span style="color:#999">External EEPROM AT24C512</span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/PhoneBook_AT24C512" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+ <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/PhoneBookWithDialer/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="78"
+        />
+    </td>
+    <td>
+        Phone Book With Dialer <br />
+        <span style="color:#999">Internal EEPROM </span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/PhoneBookWithDialer" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Programmer_STK200/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="113"
+        />
+    </td>
+    <td>
+        STK200/STK300 Programmer <br />
+        <span style="color:#999">Parallel Port </span> <br />
+        <span style="color:#999">Power with USB </span> <br />
+    </td>
+    <td> </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Programmer_STK200" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Programmer_USBASP/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="137"
+        />
+    </td>
+    <td>
+        USBASP Programmer <br />
+    </td>
+    <td> </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Programmer_USBASP" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
   
   <tr>
     <td></td>

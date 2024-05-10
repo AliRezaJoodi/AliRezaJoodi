@@ -20,8 +20,8 @@
     </td>
     <td>
         Simple Calculator <br />
-        <span style="color:#999">4x4 Keypad</span> <br />
-        <span style="color:#999">16x2 LCD Display</span> <br />
+        <span style="color:#999">Input from 4x4 Keypad</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
         CodeVision AVR <br />
@@ -68,7 +68,7 @@
     <td>
         Clock With DS1307 RTC <br />
         Thermometer With LM35 <br />
-        <span style="color:#999">16x2 LCD Display</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -91,7 +91,7 @@
     <td>
         Clock With Internal Timer <br />
         Thermometer With LM35 <br />
-        <span style="color:#999">16x2 LCD Display</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -136,8 +136,8 @@
     </td>
     <td>
         Code Lock <br />
-        <span style="color:#999">4x3 Keypad</span> <br />
-        <span style="color:#999">16x2 LCD Display</span> <br />
+        <span style="color:#999">Input from 4x3 Keypad</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -159,8 +159,8 @@
     </td>
     <td>
         Code Lock <br />
-        <span style="color:#999">4x4 Keypad</span> <br />
-        <span style="color:#999">16x2 LCD Display</span> <br />
+        <span style="color:#999">Input from 4x4 Keypad</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -183,7 +183,7 @@
     <td>
         Code Lock With RFID <br />
         <span style="color:#999">125KHz RFID Tag</span> <br />
-        <span style="color:#999">16x2 LCD Display</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -249,7 +249,7 @@
     </td>
     <td>
         Code Lock With TelCard <br />
-        <span style="color:#999">16x2 LCD Display</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -407,7 +407,7 @@
     <td>
         Digital Meter <br />
         <span style="color:#999">SRF02 Ultrasonic Module</span> <br />
-        <span style="color:#999">16x2 LCD Display</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
         CodeVision AVR <br />
@@ -432,7 +432,7 @@
     <td>
         Digital Meter <br />
         <span style="color:#999">SRF05 Ultrasonic Module</span> <br />
-        <span style="color:#999">16x2 LCD Display</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -455,7 +455,7 @@
     <td>
         Digital Water Level Meter <br />
         <span style="color:#999">SRF05 Ultrasonic Module</span> <br />
-        <span style="color:#999">16x2 LCD Display</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -477,7 +477,7 @@
     </td>
     <td>
         Single Phase Dimmer<br />
-        <span style="color:#999">16x2 LCD Display</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
         CodeVision AVR <br />
@@ -542,6 +542,7 @@
     </td>
     <td>
         Phone Book <br />
+        <span style="color:#999">Input from 4x4 Keypad</span> <br />
         <span style="color:#999">External EEPROM AT24C512</span> <br />
     </td>
     <td>
@@ -564,6 +565,7 @@
     </td>
     <td>
         Phone Book With Dialer <br />
+        <span style="color:#999">Input from 4x4 Keypad</span> <br />
         <span style="color:#999">Internal EEPROM </span> <br />
     </td>
     <td>
@@ -703,6 +705,97 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/RelayControllerWithLaserPointer_1CH_ATtiny2313" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/SmartParkingSimulator/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="52"
+        />
+    </td>
+    <td>
+        Smart Parking Simulator <br />
+    </td>
+    <td> 
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/SmartParkingSimulator" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TelCardReader/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="74"
+        />
+    </td>
+    <td>
+        Tel Card Reader <br />
+    </td>
+    <td> 
+        CodeVision AVR <br />
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TelCardReader" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TextDisplayWithLCD16x2_ControlledByPcKeyboard/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="74"
+        />
+    </td>
+    <td>
+        Text Displayer <br />
+        <span style="color:#999"> Input from PS2 Keyboard </span> <br />
+        <span style="color:#999"> Display with 16x2 LCD </span> <br />
+    </td>
+    <td> 
+        CodeVision AVR <br />
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TextDisplayWithLCD16x2_ControlledByPcKeyboard" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TextDisplayWithLCD16x2_ControlledByComputer/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="68"
+        />
+    </td>
+    <td>
+        Text Displayer<br />
+        <span style="color:#999"> Input from Computer </span> <br />
+        <span style="color:#999"> Display with 16x2 LCD </span> <br />
+    </td>
+    <td> 
+        CodeVision AVR <br />
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TextDisplayWithLCD16x2_ControlledByComputer" target="_top">
         <span>Open Source</span>
     </a></td>
   </tr>

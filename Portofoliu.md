@@ -113,7 +113,7 @@
     </td>
     <td>
         Clock With Internal Timer <br />
-        <span style="color:#999">7-segment Display</span> <br />
+        <span style="color:#999">Display with 4-Digit 7-segment</span> <br />
     </td>
     <td>
         CodeVision AVR <br />
@@ -293,7 +293,7 @@
     </td>
     <td>
         Conference Timer <br />
-        <span style="color:#999">7-segment Display</span> <br />
+        <span style="color:#999">Display with 6-Digit 7-segment</span> <br />
         <span style="color:#999">ATmega8 MCU</span> <br />
     </td>
     <td>
@@ -316,7 +316,7 @@
     </td>
     <td>
         Conference Timer <br />
-        <span style="color:#999">7-segment Display</span> <br />
+        <span style="color:#999">Display with 6-Digit 7-segment</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -338,7 +338,7 @@
     </td>
     <td>
         Counter with 2-Digit <br />
-        <span style="color:#999">7-segment Display</span> <br />
+        <span style="color:#999">Display with 2-Digit 7-segment</span> <br />
     </td>
     <td>
         Bascom AVR <br />
@@ -361,7 +361,7 @@
     <td>
         Digital Meter <br />
         <span style="color:#999">SRF02 Ultrasonic Module</span> <br />
-        <span style="color:#999">7-segment Display</span> <br />
+        <span style="color:#999">Display with 4-Digit 7-segment</span> <br />
     </td>
     <td>
         Bascom AVR <br />

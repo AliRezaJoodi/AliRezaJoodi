@@ -799,6 +799,115 @@
         <span>Open Source</span>
     </a></td>
   </tr>
+
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Thermometer_2Alarm/Simulate/Album.png"
+        alt="ts"
+        width="151"
+        height="45"
+        />
+    </td>
+    <td>
+        Thermometer with 2-Alarm<br />
+        <span style="color:#999"> LM35 Sensor </span> <br />
+        <span style="color:#999"> Display with 16x2 LCD </span> <br />
+    </td>
+    <td> 
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Thermometer_2Alarm" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+ 
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TrainingBoardExclusiveForDimmer/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="95"
+        />
+    </td>
+    <td>
+        AVR Training Board <br />
+        Exclusive For Dimmer <br />
+    </td>
+    <td> </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TrainingBoardExclusiveForDimmer" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TrainingBoardExclusiveForIR/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="69"
+        />
+    </td>
+    <td>
+        AVR Training Board <br />
+        Exclusive IR Remote <br />
+    </td>
+    <td> </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TrainingBoardExclusiveForIR" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/VoltmeterWithBarGraph_DC20V_LCD/Simulate/Album.png"
+        alt="ts"
+        width="151"
+        height="45"
+        />
+    </td>
+    <td>
+        Voltmeter With BarGraph<br />
+        <span style="color:#999"> LM35 Sensor </span> <br />
+        <span style="color:#999"> Display with 16x2 LCD </span> <br />
+    </td>
+    <td> 
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/VoltmeterWithBarGraph_DC20V_LCD" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/VoltmeterWithComputerMonitoring_DC5V_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="70"
+        />
+    </td>
+    <td>
+        Voltmeter With Computer Monitoring<br />
+        <span style="color:#999"> 0~5V DC </span> <br />
+        <span style="color:#999"> Display with 16x2 LCD </span> <br />
+    </td>
+    <td> 
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/VoltmeterWithComputerMonitoring_DC5V_LCD" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
   
   <tr>
     <td></td>

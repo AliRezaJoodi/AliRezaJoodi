@@ -919,9 +919,11 @@
         />
     </td>
     <td>
-        Wireless Communication With IR, From MCU to MCU<br />
+        Wireless Communication With IR<br />
+        From MCU to MCU<br />
         <span style="color:#999"> Input from PS2 Keyboard </span> <br />
         <span style="color:#999"> Display with 16x2 LCD </span> <br />
+        <span style="color:#999"> HMR and HMT Module </span> <br />
     </td>
     <td> 
         Bascom AVR <br />
@@ -942,9 +944,11 @@
         />
     </td>
     <td>
-        Wireless Communication With RF, From Computer to MCU<br />
+        Wireless Communication With RF<br />
+        From Computer to MCU<br />
         <span style="color:#999"> Input from Computer </span> <br />
         <span style="color:#999"> Display with 16x2 LCD </span> <br />
+        <span style="color:#999"> HMR and HMT Module </span> <br />
     </td>
     <td> 
         Bascom AVR <br />
@@ -965,8 +969,10 @@
         />
     </td>
     <td>
-        Wireless Communication With RF, From MCU to Computer<br />
+        Wireless Communication With RF<br />
+        From MCU to Computer<br />
         <span style="color:#999"> Input from USB Keyboard </span> <br />
+        <span style="color:#999"> Display with 16x2 LCD </span> <br />
         <span style="color:#999"> HMR and HMT Module </span> <br />
     </td>
     <td> 
@@ -988,8 +994,10 @@
         />
     </td>
     <td>
-        Wireless Communication With RF, From MCU to MCU<br />
+        Wireless Communication With RF<br />
+        From MCU to MCU<br />
         <span style="color:#999"> Input from PS2 Keyboard </span> <br />
+        <span style="color:#999"> Display with 16x2 LCD </span> <br />
         <span style="color:#999"> HMR and HMT Module </span> <br />
     </td>
     <td> 

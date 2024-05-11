@@ -955,6 +955,52 @@
     </a></td>
   </tr>
   
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/WirelessCommunicationWithRF_FromMCUtoComputer/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="163"
+        />
+    </td>
+    <td>
+        Wireless Communication With RF, From MCU to Computer<br />
+        <span style="color:#999"> Input from USB Keyboard </span> <br />
+        <span style="color:#999"> HMR and HMT Module </span> <br />
+    </td>
+    <td> 
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/WirelessCommunicationWithRF_FromMCUtoComputer" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+
+   <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/WirelessCommunicationWithRF_FromMCUtoMCU/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="138"
+        />
+    </td>
+    <td>
+        Wireless Communication With RF, From MCU to MCU<br />
+        <span style="color:#999"> Input from PS2 Keyboard </span> <br />
+        <span style="color:#999"> HMR and HMT Module </span> <br />
+    </td>
+    <td> 
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/WirelessCommunicationWithRF_FromMCUtoMCU" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+  
   <tr>
     <td></td>
     <td></td>

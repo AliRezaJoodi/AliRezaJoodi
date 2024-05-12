@@ -1,11 +1,11 @@
 
-### AVR Microcontroller Projects
+### Personal Projects, Based on AVR MCU, Open Source
 
 <table>
   <tr>
     <th>Picture</th>
     <th>Title</th>
-    <th>Description</th>
+    <th>Compiler</th>
     <th>Link</th>
   </tr>
 
@@ -23,8 +23,7 @@
         <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">CodeVision AVR</span> <br />
+        CodeVision AVR<br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Dimmer_1Phase_LCD" target="_top">
@@ -46,7 +45,6 @@
         Exclusive For Dimmer <br />
     </td>
     <td> 
-        Based on AVR MCU</span> <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TrainingBoardExclusiveForDimmer" target="_top">
@@ -68,7 +66,6 @@
         Exclusive For IR Remote <br />
     </td>
     <td> 
-        Based on AVR MCU<br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TrainingBoardExclusiveForIR" target="_top">
@@ -89,8 +86,7 @@
         16CH Flashing Light with Triacs <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR<br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/FlasherWithTriacs_16CH" target="_top">
@@ -111,9 +107,8 @@
         1CH Relay Controller with Laser Pointer <br />
     </td>
     <td> 
-        Based on AVR MCU<br />
-        <span style="color:#999">CodeVision AVR </span> <br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        CodeVision AVR <br />
+        Bascom AVR <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/RelayControllerWithLaserPointer_1CH_ATmega8" target="_top">
@@ -176,8 +171,7 @@
         <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR<br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithRFID_LCD" target="_top">
@@ -200,8 +194,7 @@
         <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR<br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithKeypad4x4" target="_top">
@@ -223,8 +216,7 @@
         <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR<br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithTelCard_LCD" target="_top">
@@ -247,8 +239,7 @@
         <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR<br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ClockWithDS1307&Thermometer_LCD" target="_top">
@@ -270,8 +261,7 @@
         <span style="color:#999">Display with 6-Digit 7-segment</span> <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR<br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ConferenceTimer_7Segment_ATmega32" target="_top">
@@ -294,8 +284,7 @@
         <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR<br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DigitalWaterLevelMeterWithUltrasonicMoudle_SRF05_LCD" target="_top">
@@ -318,10 +307,9 @@
         <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">CodeVision AVR </span> <br />
-        <span style="color:#999">Bascom AVR </span> <br />
-        <span style="color:#999">mikroC PRO for AVR </span> <br />
+        CodeVision AVR <br />
+        Bascom AVR <br />
+        mikroC PRO for AVR <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DigitalMeterWithUltrasonicMoudle_SRF02_LCD" target="_top">
@@ -344,8 +332,7 @@
         <span style="color:#999">Display with 4-Digit 7-segment</span> <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DigitalMeterWithUltrasonicMoudle_SRF02_7Segment" target="_top">
@@ -366,9 +353,8 @@
         Line Follower Robot <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">CodeVision AVR </span> <br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        CodeVision AVR <br />
+        Bascom AVR <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/LineFollowerRobot" target="_top">
@@ -391,8 +377,7 @@
         <span style="color:#999">Internal EEPROM </span> <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR<br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/PhoneBookWithDialer" target="_top">
@@ -413,8 +398,7 @@
         Smart Parking Simulator <br />
     </td>
     <td> 
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR<br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/SmartParkingSimulator" target="_top">
@@ -435,9 +419,8 @@
         Tel Card Reader <br />
     </td>
     <td> 
-        Based on AVR MCU<br />
-        <span style="color:#999">CodeVision AVR </span> <br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        CodeVision AVR <br />
+        Bascom AVR <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TelCardReader" target="_top">
@@ -460,9 +443,8 @@
         <span style="color:#999"> Display with 16x2 LCD </span> <br />
     </td>
     <td> 
-        Based on AVR MCU<br />
-        <span style="color:#999">CodeVision AVR </span> <br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        CodeVision AVR <br />
+        Bascom AVR <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TextDisplayWithLCD16x2_ControlledByComputer" target="_top">
@@ -485,8 +467,7 @@
         <span style="color:#999"> Display with 16x2 LCD </span> <br />
     </td>
     <td> 
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR<br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/VoltmeterWithComputerMonitoring_DC5V_LCD" target="_top">
@@ -511,8 +492,7 @@
         <span style="color:#999"> HMR and HMT Module </span> <br />
     </td>
     <td> 
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/WirelessCommunicationWithIR_FromMCUtoMCU" target="_top">
@@ -537,8 +517,7 @@
         <span style="color:#999"> HMR and HMT Module </span> <br />
     </td>
     <td> 
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/WirelessCommunicationWithRF_FromComputerToMCU" target="_top">
@@ -563,8 +542,7 @@
         <span style="color:#999"> HMR and HMT Module </span> <br />
     </td>
     <td> 
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/WirelessCommunicationWithRF_FromMCUtoComputer" target="_top">
@@ -589,8 +567,7 @@
         <span style="color:#999"> HMR and HMT Module </span> <br />
     </td>
     <td> 
-        Based on AVR MCU<br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        Bascom AVR <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/WirelessCommunicationWithRF_FromMCUtoMCU" target="_top">
@@ -613,9 +590,8 @@
         <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
-        Based on AVR MCU<br />
-        <span style="color:#999">CodeVision AVR </span> <br />
-        <span style="color:#999">Bascom AVR </span> <br />
+        CodeVision AVR <br />
+        Bascom AVR <br />
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Calculator_LCD" target="_top">

@@ -182,6 +182,28 @@
   <tr>
     <td>
         <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithRFID_LED/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="72"
+        />
+    </td>
+    <td>
+        Code Lock With RFID <br />
+        <span style="color:#999">125KHz RFID Tag</span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithRFID_LED" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+  
+  <tr>
+    <td>
+        <img
         src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithKeypad4x4/Pictures/Album.jpg"
         alt="ts"
         width="150"
@@ -205,6 +227,29 @@
   <tr>
     <td>
         <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithKeypad4x3/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="84"
+        />
+    </td>
+    <td>
+        Code Lock <br />
+        <span style="color:#999">Input from 4x3 Keypad</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
+    </td>
+    <td>
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithKeypad4x3" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+  
+  <tr>
+    <td>
+        <img
         src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithTelCard_LCD/Pictures/Album.jpg"
         alt="ts"
         width="151"
@@ -224,6 +269,28 @@
     </a></td>
   </tr>
 
+  <tr>
+    <td>
+        <img
+        src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithTelCard_LED/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="68"
+        />
+    </td>
+    <td>
+        Code Lock With TelCard <br />
+    </td>
+    <td>
+        CodeVision AVR <br />
+        Bascom AVR <br />
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithTelCard_LED" target="_top">
+        <span>Open Source</span>
+    </a></td>
+  </tr>
+  
   <tr>
     <td>
         <img

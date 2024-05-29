@@ -1,5 +1,5 @@
 
-### Personal Projects, Based on AVR MCU, Open Source
+### Personal Projects, Based on AVR MCU
 
 <table>
   <tr>
@@ -692,7 +692,7 @@
 </table>
 
 
-### Personal Projects, Based on PIC MCU, Open Source
+### Personal Projects, Based on PIC MCU
 
 <table>
   <tr>
@@ -866,7 +866,7 @@
 
 
 
-### Personal Projects, Based on 8051 MCU, Open Source
+### Personal Projects, Based on 8051 MCU
 
 <table>
   <tr>

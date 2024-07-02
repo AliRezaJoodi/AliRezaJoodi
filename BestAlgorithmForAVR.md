@@ -19,20 +19,13 @@ DigitalWaterLevelMeter_Ultrasonic_SRF05_LCD
 AVR_Exercises\EEPROM\Code_CodeVisionAVR
 
 ### Buzzer
-AVR_Exercises\Buzzer\Code_CodeVisionAVR_v2
+AVR_Exercises\Buzzer\Code_CodeVisionAVR
 
 ### Encoder
 AVR_Exercises\Encoder\Code_CodeVisionAVR
 
 ### BarGraph on the 16x2 LCD
-AVR_Exercises\Display_LCD_BarGraph\Code_BascomAVR  
-
-### Average
-AVR_Exercises\Sensor_Temperature_LM35\Code_BascomAVR\v3.1.bas  
-
-### Display ^c
-AVR_Exercises\Sensor_Temperature_LM35\Code_CodeVisionAVR  
-AVR_Exercises\Sensor_Temperature_DS18B20\Code_BascomAVR\v1.0.bas   
+AVR_Exercises\Display_LCD_BarGraph\Code_BascomAVR    
 
 ### 8×8 Dot Matrix Driver
 AVR_Exercises\Display_Matrix_8x8\Code_BascomAVR

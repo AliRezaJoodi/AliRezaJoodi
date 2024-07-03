@@ -18,14 +18,8 @@ DigitalWaterLevelMeter_Ultrasonic_SRF05_LCD
 ### Internal EEPROM
 AVR_Exercises\EEPROM\Code_CodeVisionAVR
 
-### Buzzer
-AVR_Exercises\Buzzer\Code_CodeVisionAVR
-
 ### Encoder
-AVR_Exercises\Encoder\Code_CodeVisionAVR
-
-### BarGraph on the 16x2 LCD
-AVR_Exercises\Display_LCD_BarGraph\Code_BascomAVR    
+AVR_Exercises\Encoder\Code_CodeVisionAVR   
 
 ### 8×8 Dot Matrix Driver
 AVR_Exercises\Display_Matrix_8x8\Code_BascomAVR

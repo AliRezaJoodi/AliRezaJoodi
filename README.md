@@ -1,5 +1,5 @@
 ## Summary
-An electronics developer with over 10 years of experience in hardware design, PCB design, and microcontroller programming.
+An Electronics Developer with over 10 years of experience in Hardware Design, PCB Design, and Microcontroller Programming.
 
 ## Skills
 - Digital **Hardware Design**.
@@ -7,8 +7,8 @@ An electronics developer with over 10 years of experience in hardware design, PC
 - **AVR Programming** with **CodeVisionAVR** and **BascomAVR**.
 - **STM32 Programming** with **Keil uVision**. (Beginner)
 - **Arduino Programming**.
-- Version Control with **GitHub**.
 - **Tutorial on Electronics** such as AVR Programming, Digital Electronics, and Robotics Fundamentals.
+- Version Control with **GitHub**.
 
 ## Portfolio
 [Personal Projects, Open Source, Based on AVR MCU](https://github.com/AliRezaJoodi/AVR_Projects)  

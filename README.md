@@ -8,7 +8,7 @@ An electronics developer with over 10 years of experience in hardware design, PC
 - **STM32 Programming** with **Keil uVision**. (Beginner)
 - **Arduino Programming**.
 - Version Control with **GitHub**.
-- Instructing AVR programming, digital electronics, and basics of robotics.
+- **Tutorial on Electronics** such as AVR Programming, Digital Electronics, and Robotics Fundamentals.
 
 ## Portfolio
 [Personal Projects, Open Source, Based on AVR MCU](https://github.com/AliRezaJoodi/AVR_Projects)  

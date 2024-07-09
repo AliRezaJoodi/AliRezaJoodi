@@ -4,7 +4,7 @@ An electronics developer with over 10 years of experience in hardware design, PC
 ## Skills
 - Digital **Hardware Design**.
 - **PCB Design** with **Altium Designer**.
-- **AVR Microcontroller** Programming with **CodeVisionAVR** and **BascomAVR**.
+- **AVR Programming** with **CodeVisionAVR** and **BascomAVR**.
 - **STM32 Programming** with **Keil uVision**. (Beginner)
 - **Arduino Programming**.
 - Version Control with **GitHub**.

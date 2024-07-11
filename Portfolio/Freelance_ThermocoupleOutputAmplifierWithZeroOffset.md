@@ -2,7 +2,7 @@
 
 2-Layer PCB
 
-Remot work From Dirgodaz Amol Industries Inc., Iran  
+Remot work From [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
 Date in March 2024  
 
 My Tasks: 

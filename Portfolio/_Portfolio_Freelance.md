@@ -49,6 +49,7 @@
         </a> <br />
         <span style="color:#999">3CH for 3-Phase AC Voltage</span> <br />
 	<span style="color:#999">3CH 80A for Current</span> <br />
+	<span style="color:#999">Curent Isolation with CT</span> <br />
         <span style="color:#999">Isolated SPI Interfacing with ADuM140x</span> <br />
     </td>
     <td>

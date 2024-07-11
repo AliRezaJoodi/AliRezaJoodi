@@ -12,7 +12,7 @@ An Electronics Developer with over 10 years of experience in Hardware Design, PC
 - Version Control with **GitHub**.
 
 ## Portfolio
-Work Projects, Freelance  
+[Work Projects, Freelance](https://github.com/AliRezaJoodi/Portfolio_Freelance)  
 Work Projects in Dirgodaz Amol Industries Inc., Iran  
 [Open-Source Project Based On AVR Microcontroller](https://github.com/AliRezaJoodi/AVR_Projects)  
 [Open-Source Project Based On PIC Microcontroller](https://github.com/AliRezaJoodi/PIC_Projects)  

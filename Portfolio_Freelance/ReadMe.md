@@ -24,11 +24,11 @@
 	<span style="color:#999">Curent Isolation with CT</span> <br />
     </td>
     <td>
+        Type: Remote<br />
         Hardware Design: 50%<br />
         PCB Design: 100%<br />
     </td>
     <td>
-        Type: Remote<br />
         From: Russia<br />
         <a href="https://github.com/AliRezaJoodi" target="_top">
         <span>More info</span>
@@ -51,11 +51,11 @@
         <span style="color:#999">Isolated SPI Interfacing with ADuM140x</span> <br />
     </td>
     <td>
+        Type: Remote<br />
         Hardware Design: 100%<br />
         PCB Design: 100%<br />
     </td>
     <td>
-        Type: Remote<br />
         From: Russia<br />
         <a href="https://github.com/AliRezaJoodi" target="_top">
         <span>More info</span>

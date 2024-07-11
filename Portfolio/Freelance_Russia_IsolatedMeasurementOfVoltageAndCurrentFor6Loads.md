@@ -11,8 +11,8 @@ Remot work From Russia
 Date in February 2024  
 
 My Tasks: 
-- Hardware Design 100%  
-- PCB Design 100%  
+- Hardware Design: 100%
+- PCB Design: 100%
 
 ### 2D View of PCB:
 ![PCB_2D](https://s32.picofile.com/file/8477565234/v4_10_PCB_2D.png)

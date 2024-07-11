@@ -1,47 +1,45 @@
 ### Work Projects, Freelance
 <table>
-  <tr>
+ <tr>
     <th>Picture</th>
     <th>Title</th>
     <th>Description</th>
-  </tr>
+ </tr>
 
-   <tr>
+ <tr>
     <td>
-        <img
-        src="https://s32.picofile.com/file/8477570200/Album.png"
+        <img src="https://s32.picofile.com/file/8477570200/Album.png"
         alt="ts"
         width="150"
         height="149"
         />    
     </td>
     <td>
-        <a 
-            href="Freelance_ThermocoupleOutputAmplifierWithZeroOffset.md" target="_top">
-            <span>Thermocouple Output Amplifier With Zero Offset</span>
+        <a href="Freelance_ThermocoupleOutputAmplifierWithZeroOffset.md" target="_top">
+        <span>Thermocouple Output Amplifier With Zero Offset</span>
         </a> <br />
     </td>
     <td>
-        Client: Dirgodaz Amol, Iran<br />
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
         Work Type: Remote<br />
         Hardware Design: 90%<br />
         PCB Design: 100%<br />
     </td>
-  </tr>
+ </tr>
 
-   <tr>
+ <tr>
     <td>
-        <img
-        src="https://s32.picofile.com/file/8477565226/Album.png"
+        <img src="https://s32.picofile.com/file/8477565226/Album.png"
         alt="ts"
         width="150"
         height="78"
         />    
     </td>
     <td>
-        <a 
-            href="Freelance_Russia_IsolatedMeasurementOfVoltageAndCurrentFor6Loads.md" target="_top">
-            <span>Isolated Measurement of Voltage and Current for Six Loads</span>
+        <a href="Freelance_Russia_IsolatedMeasurementOfVoltageAndCurrentFor6Loads.md" target="_top">
+        <span>Isolated Measurement of Voltage and Current for Six Loads</span>
         </a> <br />
         <span style="color:#999">3CH for 3-Phase AC Voltage</span> <br />
 	<span style="color:#999">6CH 40A for Current</span> <br />
@@ -56,19 +54,17 @@
     </td>
   </tr>
 
-   <tr>
+ <tr>
     <td>
-        <img
-        src="https://s32.picofile.com/file/8477565368/Album.png"
+        <img src="https://s32.picofile.com/file/8477565368/Album.png"
         alt="ts"
         width="150"
         height="140"
         />    
     </td>
     <td>
-        <a 
-            href="Freelance_Russia_3PhaseEnergyMeterBasedOnADE7858.md" target="_top">
-            <span>3-Phase Energy Meter Based on ADE7858</span>
+        <a href="Freelance_Russia_3PhaseEnergyMeterBasedOnADE7858.md" target="_top">
+        <span>3-Phase Energy Meter Based on ADE7858</span>
         </a> <br />
         <span style="color:#999">3CH for 3-Phase AC Voltage</span> <br />
 	<span style="color:#999">3CH 80A for Current</span> <br />

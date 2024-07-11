@@ -2,9 +2,9 @@
 
 3CH for 3-Phase AC Voltage  
 6CH 40A for Current  
-Voltage Isolation with HCPL-7840 IC  
+Voltage Isolation with HCPL-7840  
 Curent Isolation with CT  
-PCB with 2-Layer  
+2-Layer PCB  
 
 Remot work From Russia  
 Date in February 2024  

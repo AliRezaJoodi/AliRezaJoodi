@@ -2,8 +2,9 @@
 
 3CH for 3-Phase AC Voltage  
 3CH 80A for Current  
+Curent Isolation with CT  
 Isolated SPI Interfacing with ADuM140x  
-PCB with 2-Layer  
+2-Layer PCB  
 
 Remot work From Russia  
 Date in January 2024  

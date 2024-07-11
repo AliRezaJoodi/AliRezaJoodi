@@ -22,8 +22,8 @@
         </a> <br />
     </td>
     <td>
-        From: Dirgodaz Amol, Iran<br />
-        Type: Remote<br />
+        Client: Dirgodaz Amol, Iran<br />
+        Work Type: Remote<br />
         Hardware Design: 90%<br />
         PCB Design: 100%<br />
     </td>
@@ -49,8 +49,8 @@
 	<span style="color:#999">Curent Isolation with CT</span> <br />
     </td>
     <td>
-        From: Russia<br />
-        Type: Remote<br />
+        Client: Russia<br />
+        Work Type: Remote<br />
         Hardware Design: 50%<br />
         PCB Design: 100%<br />
     </td>
@@ -76,8 +76,8 @@
         <span style="color:#999">Isolated SPI Interfacing with ADuM140x</span> <br />
     </td>
     <td>
-        From: Russia<br />
-        Type: Remote<br />
+        Client: Russia<br />
+        Work Type: Remote<br />
         Hardware Design: 100%<br />
         PCB Design: 100%<br />
     </td>

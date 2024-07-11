@@ -77,7 +77,29 @@
         Hardware Design: 100%<br />
         PCB Design: 100%<br />
     </td>
-    
+  </tr>
+
+ <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8477571426/Album.png"
+        alt="ts"
+        width="150"
+        height="114"
+        />    
+    </td>
+    <td>
+        <a href="Alcora_InductionFurnace_30KW_ControlledWithPDM.md" target="_top">
+        <span>30KW Induction Furnace, Controlled With PDM
+</span>
+        </a> <br />
+    </td>
+    <td>
+        Client: Alcora Inc., Iran<br />
+        Work Type: On-site<br />
+        PCB Assembly<br />
+        Installed the electrical components<br />
+        Installed the cooling components<br />
+    </td>
   </tr>
   
 </table>

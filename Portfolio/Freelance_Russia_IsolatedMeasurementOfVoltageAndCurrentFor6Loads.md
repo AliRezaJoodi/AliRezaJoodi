@@ -7,7 +7,8 @@ Curent Isolation with CT
 ADC with MAX11198 (16-bit resolution, 2Msps, SPI Interface)  
 2-Layer PCB  
 
-Remot work From Russia  
+Client from Russia  
+Work type was remote  
 Date in February 2024  
 
 My Tasks: 

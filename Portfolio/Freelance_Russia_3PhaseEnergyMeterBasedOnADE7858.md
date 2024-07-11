@@ -6,7 +6,8 @@ Curent Isolation with CT
 Isolated SPI Interfacing with ADuM140x  
 2-Layer PCB  
 
-Remot work From Russia  
+Client from Russia  
+Work type was remote  
 Date in January 2024  
 
 My Tasks:  

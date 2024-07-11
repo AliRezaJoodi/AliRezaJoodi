@@ -11,7 +11,7 @@
         <img
         src="https://s32.picofile.com/file/8477565226/Album.png"
         alt="ts"
-        width="151"
+        width="150"
         height="78"
         />    
     </td>
@@ -38,8 +38,8 @@
         <img
         src="https://s32.picofile.com/file/8477565368/Album.png"
         alt="ts"
-        width="151"
-        height="78"
+        width="150"
+        height="140"
         />    
     </td>
     <td>

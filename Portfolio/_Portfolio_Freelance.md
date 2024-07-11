@@ -9,6 +9,29 @@
    <tr>
     <td>
         <img
+        src="https://s32.picofile.com/file/8477570200/Album.png"
+        alt="ts"
+        width="150"
+        height="149"
+        />    
+    </td>
+    <td>
+        <a 
+            href="Freelance_ThermocoupleOutputAmplifierWithZeroOffset.md" target="_top">
+            <span>Thermocouple Output Amplifier With Zero Offset</span>
+        </a> <br />
+    </td>
+    <td>
+        From: Dirgodaz Amol, Iran<br />
+        Type: Remote<br />
+        Hardware Design: 90%<br />
+        PCB Design: 100%<br />
+    </td>
+  </tr>
+
+   <tr>
+    <td>
+        <img
         src="https://s32.picofile.com/file/8477565226/Album.png"
         alt="ts"
         width="150"

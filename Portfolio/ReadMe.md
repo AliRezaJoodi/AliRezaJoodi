@@ -1,4 +1,4 @@
-### Work Projects, Freelance
+### Work Projects
 <table>
  <tr>
     <th>Picture</th>

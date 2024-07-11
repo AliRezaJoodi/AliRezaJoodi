@@ -17,8 +17,8 @@
     </td>
     <td>
         <a 
-            href="https://github.com/AliRezaJoodi" target="_top">
-            <span>Isolated Measurement of Voltage and Current for Six 40A Loads</span>
+            href="https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/Freelance_Russia_IsolatedMeasurementOfVoltageAndCurrentFor6Loads.md" target="_top">
+            <span>Isolated Measurement of Voltage and Current for Six Loads</span>
         </a> <br />
         <span style="color:#999">Voltage Channel: 3CH, 3-Phase AC voltage</span> <br />
 	<span style="color:#999">Current Channel: 6CH, 40A</span> <br />
@@ -44,8 +44,8 @@
     </td>
     <td>
         <a 
-            href="https://github.com/AliRezaJoodi" target="_top">
-            <span>3-Phase 80A Energy Meter Based on ADE7858</span>
+            href="https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/Freelance_Russia_3PhaseEnergyMeterBasedOnADE7858.md" target="_top">
+            <span>3-Phase Energy Meter Based on ADE7858</span>
         </a> <br />
         <span style="color:#999">Voltage Channel: 3CH, 3-Phase AC voltage</span> <br />
 	<span style="color:#999">Current Channel: 3CH, 80A</span> <br />

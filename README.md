@@ -11,6 +11,7 @@ An Electronics Developer with over 10 years of experience in Hardware Design, PC
 - Experienced with Communication Protocols such as **UART**, **SPI**, **I2C**, **1-Wire**, **RS232**, **RS485**, and **RS422**.
 - **Tutorial on Electronics** such as AVR Programming, Digital Electronics, and Robotics Fundamentals.
 - Version Control with **GitHub**.
+- Proficient in Microsoft Office such as **Word**, **Excel**, **Access**, **Visio**, **PowerPoint**, and **Outlook**.
 
 ## Portfolio
 [Work Projects](Portfolio/ReadMe.md)  

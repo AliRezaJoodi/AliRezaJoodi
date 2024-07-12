@@ -94,7 +94,7 @@
         </a> <br />
     </td>
     <td>
-        Client: Alcora Inc., Iran<br />
+        Client: Alcora Start-up, Iran<br />
         Work Type: On-site<br />
         PCB Assembly<br />
         Installed the electrical components<br />

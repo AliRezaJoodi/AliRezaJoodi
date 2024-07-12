@@ -16,7 +16,7 @@ My Tasks:
 ![](https://s32.picofile.com/file/8477571292/Full1.jpg)
 
 ### Inverter Panel v1.0:
-![](https://s32.picofile.com/file/8477571326/InverterPanel_v1_0.jpg)
+![](https://s32.picofile.com/file/8477581334/InverterPanel_v1_0.jpg)
 
 ### Transformer Panel v1.0:
 ![](https://s32.picofile.com/file/8477571368/TransformerPanel_v1_0.jpg)

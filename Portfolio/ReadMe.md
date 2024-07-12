@@ -15,7 +15,7 @@
         />    
     </td>
     <td>
-        <a href="Freelance_DirgodazAmol_ThermocoupleOutputAmplifierWithZeroOffset" target="_top">
+        <a href="Freelance_DirgodazAmol_ThermocoupleOutputAmplifierWithZeroOffset.md" target="_top">
         <span>Thermocouple Output Amplifier With Zero Offset</span>
         </a> <br />
     </td>

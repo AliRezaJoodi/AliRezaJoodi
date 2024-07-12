@@ -4,8 +4,8 @@ Client from Alcora Start-up, Iran
 Work type was on-site  
 Date in Oct 2023 - Dec 2023
 
-Note: The project design was by my colleague.
-Note: It's a prototype.
+Note: The project design was by my colleague.  
+Note: It's a prototype.  
 
 My Tasks: 
 - PCB Assembly

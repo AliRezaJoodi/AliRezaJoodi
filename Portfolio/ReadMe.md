@@ -101,5 +101,30 @@
         Installed the cooling components<br />
     </td>
   </tr>
+
+ <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8477598650/Album.png"
+        alt="ts"
+        width="150"
+        height="114"
+        />    
+    </td>
+    <td>
+        <a href="Freelance_India_Battery Charger By Transformer.md" target="_top">
+        <span>40V/30A Battery Charger with Transformer
+</span>
+        </a> <br />
+        <span style="color:#999">Reverse Engineering of Analog Circuit</span> <br />
+        <span style="color:#999">Redesigned Microcontroller Unit</span> <br />
+    </td>
+    <td>
+        Client: India<br />
+        Work Type: Remote<br />
+        Hardware Design: 50%<br />
+        AVR Programming: 100%<br />
+        Manufacturing: Consultant<br />
+    </td>
+  </tr>
   
 </table>

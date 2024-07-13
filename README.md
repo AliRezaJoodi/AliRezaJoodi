@@ -5,9 +5,9 @@ An Electronics Developer with over 10 years of experience in Hardware Design, PC
 - Digital **Hardware Design**.
 - **PCB Design** with **Altium Designer**.
 - **C Programming** for Microcontrollers.
-- **AVR Programming** with **CodeVisionAVR** and **BascomAVR**.
-- **STM32 Programming** with **Keil uVision**. (Beginner)
-- **Arduino Programming**.
+- **AVR** Microcontroller Programming with **CodeVisionAVR** and **BascomAVR**.
+- **STM32** Microcontroller Programming with **Keil uVision**. (Beginner)
+- **Arduino** Programming.
 - Experienced with Communication Protocols such as **UART**, **SPI**, **I2C**, **1-Wire**, **RS232**, **RS485**, and **RS422**.
 - **Tutorial on Electronics** such as AVR Programming, Digital Electronics, and Robotics Fundamentals.
 - Version Control with **GitHub**.

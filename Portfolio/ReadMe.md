@@ -111,7 +111,7 @@
         />    
     </td>
     <td>
-        <a href="Freelance_India_Battery Charger By Transformer.md" target="_top">
+        <a href="Freelance_India_BatteryChargerWithTransformer.md" target="_top">
         <span>40V/30A Battery Charger with Transformer
 </span>
         </a> <br />

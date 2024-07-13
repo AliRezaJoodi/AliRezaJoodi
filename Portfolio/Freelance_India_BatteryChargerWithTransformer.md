@@ -1,8 +1,8 @@
 ## 40V/30A Battery Charger with Transformer
 The analog circuit was reverse-engineered.  
-This project was based on the 8051 microcontroller, but we redesigned it with AVR.  
+The original project was based on the 8051 microcontroller, but we redesigned it with AVR.  
 
-Client Mr JaydeepSingh from India  
+Client from India  
 Work type was remote  
 Date in Apr 2023 - Jun 2023  
 

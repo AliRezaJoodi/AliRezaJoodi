@@ -104,6 +104,31 @@
 
  <tr>
     <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Dimmer_1Phase_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="72"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Dimmer_1Phase_LCD" target="_top">
+        <span>Digital Single Phase Dimmer
+</span>
+        </a> <br />
+        <span style="color:#999">Base on AVR MCU</span> <br />
+        <span style="color:#999">Zero-crossing synchronized PWM.</span> <br />
+        <span style="color:#999">Display with 16x2 LCD</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        Hardware Design: 100%<br />
+        AVR Programming: 100%<br />
+    </td>
+  </tr>
+
+ <tr>
+    <td>
         <img src="https://s32.picofile.com/file/8477598650/Album.png"
         alt="ts"
         width="150"

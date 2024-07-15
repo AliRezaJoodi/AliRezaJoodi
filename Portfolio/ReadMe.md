@@ -176,9 +176,9 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
-        PCB design<br />
         Home-Mmade of New Boards<br />
-        Installed the Electrical and Cooling Components<br />
+        Installed the Electrical Components<br />
+        Installed the Cooling Components<br />
     </td>
  </tr>
   

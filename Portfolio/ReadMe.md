@@ -92,6 +92,9 @@
         <span>30KW Induction Furnace, Controlled With PDM
 </span>
         </a> <br />
+        <span>3-Phase</span><br />
+        <span>Full-Bridge</span><br />
+        <span>Power Controller with PDM</span><br />
     </td>
     <td>
         Client: Alcora Start-up, Iran<br />
@@ -116,7 +119,7 @@
 </span>
         </a> <br />
         <span style="color:#999">Base on AVR MCU</span> <br />
-        <span style="color:#999">Zero-crossing synchronized PWM.</span> <br />
+        <span style="color:#999">Zero-Crossing Synchronized PWM</span> <br />
         <span style="color:#999">Display with 16x2 LCD</span> <br />
     </td>
     <td>
@@ -151,5 +154,32 @@
         Manufacturing: Consultant<br />
     </td>
   </tr>
+
+ <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8477640334/Album.jpg"
+        alt="ts"
+        width="150"
+        height="82"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_InductionFurnace_30KW_Model2.md" target="_top">
+        <span>30KW Induction Furnace, Mode2</span>
+        </a> <br />
+        <span>3-Phase</span><br />
+        <span>Half-Bridge</span><br />
+        <span>Power Controller with Dimmer</span><br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+        PCB design<br />
+        Home-Mmade of New Boards<br />
+        Installed the Electrical and Cooling Components<br />
+    </td>
+ </tr>
   
 </table>

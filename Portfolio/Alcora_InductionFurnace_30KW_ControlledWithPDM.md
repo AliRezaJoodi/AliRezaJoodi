@@ -1,4 +1,5 @@
 ## 30KW Induction Furnace, Controlled With PDM
+Full-Bridge 3-Phase Induction Furnace.
 
 Client from Alcora Start-up, Iran  
 Work type was on-site  

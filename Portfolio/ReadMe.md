@@ -181,5 +181,32 @@
         Installed the Cooling Components<br />
     </td>
  </tr>
-  
+ 
+  <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8477663918/Album.jpg"
+        alt="ts"
+        width="150"
+        height="106"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_InductionFurnace_30KW_Model1.md" target="_top">
+        <span>30KW Induction Furnace, Mode1</span>
+        </a> <br />
+        <span>3-Phase</span><br />
+        <span>Half-Bridge</span><br />
+        <span>Power Controller with Dimmer</span><br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+        Remade all the boards<br />
+        Installed the Electrical Components<br />
+        Installed the Cooling Components<br />
+    </td>
+ </tr>
+ 
 </table>

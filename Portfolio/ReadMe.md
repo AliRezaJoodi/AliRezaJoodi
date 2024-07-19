@@ -92,9 +92,9 @@
         <span>30KW Induction Furnace, Controlled With PDM
 </span>
         </a> <br />
-        <span>3-Phase</span><br />
-        <span>Full-Bridge</span><br />
-        <span>Power Controller with PDM</span><br />
+        <span style="color:#999">3-Phase</span><br />
+        <span style="color:#999">Full-Bridge</span><br />
+        <span style="color:#999">Power Controller with PDM</span><br />
     </td>
     <td>
         Client: Alcora Start-up, Iran<br />
@@ -167,9 +167,9 @@
         <a href="DirgodazAmol_InductionFurnace_30KW_Model2.md" target="_top">
         <span>30KW Induction Furnace, Mode2</span>
         </a> <br />
-        <span>3-Phase</span><br />
-        <span>Half-Bridge</span><br />
-        <span>Power Controller with Dimmer</span><br />
+        <span style="color:#999">3-Phase</span> <br />
+        <span style="color:#999">Half-Bridge</span> <br />
+        <span style="color:#999">Power Controller with Dimmer</span> <br />
     </td>
     <td>
 	<a href="https://dirgodazamol.com/en/" target="_top">
@@ -194,9 +194,9 @@
         <a href="DirgodazAmol_InductionFurnace_30KW_Model1.md" target="_top">
         <span>30KW Induction Furnace, Mode1</span>
         </a> <br />
-        <span>3-Phase</span><br />
-        <span>Half-Bridge</span><br />
-        <span>Power Controller with Dimmer</span><br />
+        <span style="color:#999">3-Phase</span> <br />
+        <span style="color:#999">Half-Bridge</span> <br />
+        <span style="color:#999">Power Controller with Dimmer</span> <br />
     </td>
     <td>
 	<a href="https://dirgodazamol.com/en/" target="_top">
@@ -208,5 +208,29 @@
         Installed the Cooling Components<br />
     </td>
  </tr>
- 
+
+  <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8477705692/Album.jpg"
+        alt="ts"
+        width="150"
+        height="119"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_InductionFurnace_50KW.md" target="_top">
+        <span>50KW Induction Furnace</span>
+        </a> <br />
+        <span style="color:#999">3-Phase</span> <br />
+        <span style="color:#999">Half-Bridge</span> <br />
+        <span style="color:#999">Power Controller with Dimmer</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+    </td>
+ </tr>
+
 </table>

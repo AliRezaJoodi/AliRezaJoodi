@@ -20,6 +20,9 @@ My Tasks :
 ### Full View v1.0:
 ![](https://s32.picofile.com/file/8477705700/FullView_v1_0.jpg) 
 
+### Video: v1.0
+[A link on Youtube.com](https://www.youtube.com/watch?v=VnA-OOWKcfw) 
+
 ### More photo:
-![](https://s32.picofile.com/file/8477705718/p1.jpg)  
+![](https://s32.picofile.com/file/8477781150/p1.jpg)  
  

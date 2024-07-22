@@ -89,7 +89,7 @@
     </td>
     <td>
         <a href="Alcora_InductionFurnace_30KW_ControlledWithPDM.md" target="_top">
-        <span>30KW Induction Furnace, Controlled With PDM
+        <span>Induction Furnace, 30KW, Controlled With PDM
 </span>
         </a> <br />
         <span style="color:#999">3-Phase</span><br />
@@ -140,7 +140,7 @@
     </td>
     <td>
         <a href="Freelance_India_BatteryChargerWithTransformer.md" target="_top">
-        <span>40V/30A Battery Charger with Transformer
+        <span>Battery Charger with Transformer, 40V/30A
 </span>
         </a> <br />
         <span style="color:#999">Reverse Engineering of Analog Circuit</span> <br />
@@ -165,7 +165,7 @@
     </td>
     <td>
         <a href="DirgodazAmol_InductionFurnace_30KW_Model2.md" target="_top">
-        <span>30KW Induction Furnace, Mode2</span>
+        <span>Induction Furnace, 30KW, Mode2</span>
         </a> <br />
         <span style="color:#999">3-Phase</span> <br />
         <span style="color:#999">Half-Bridge</span> <br />
@@ -192,7 +192,7 @@
     </td>
     <td>
         <a href="DirgodazAmol_InductionFurnace_30KW_Model1.md" target="_top">
-        <span>30KW Induction Furnace, Mode1</span>
+        <span>Induction Furnace, 30KW, Mode1</span>
         </a> <br />
         <span style="color:#999">3-Phase</span> <br />
         <span style="color:#999">Half-Bridge</span> <br />
@@ -219,7 +219,7 @@
     </td>
     <td>
         <a href="DirgodazAmol_InductionFurnace_50KW.md" target="_top">
-        <span>50KW Induction Furnace</span>
+        <span>Induction Furnace, 50KW</span>
         </a> <br />
         <span style="color:#999">3-Phase</span> <br />
         <span style="color:#999">Half-Bridge</span> <br />

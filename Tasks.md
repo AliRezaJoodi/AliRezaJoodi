@@ -1,4 +1,5 @@
 ## STM32_Exercises
+- [ ] Max7219
 - [ ] KeyPad
 - [ ] ADC
 - [x] 4-Digit 7-Segment

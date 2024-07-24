@@ -1,5 +1,5 @@
 ## Summary
-An Electronics Developer with over 10 years of experience in Hardware Design, PCB Design, and Microcontroller Programming.
+An Embedded Hardware Design with over 10 years of experience in Hardware Design, PCB Design, and Microcontroller Programming.
 
 ## Skills
 - Digital **Hardware Design**.

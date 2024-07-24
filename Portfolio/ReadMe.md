@@ -222,7 +222,7 @@
         <span>Induction Furnace, 50KW</span>
         </a> <br />
         <span style="color:#999">3-Phase</span> <br />
-        <span style="color:#999">Half-Bridge</span> <br />
+        <span style="color:#999">Full-Bridge</span> <br />
         <span style="color:#999">Power Controller with Dimmer</span> <br />
     </td>
     <td>

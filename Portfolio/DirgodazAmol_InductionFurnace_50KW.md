@@ -1,5 +1,5 @@
 ## 50KW Induction Furnace
-Half-Bridge 3-Phase Induction Furnace.  
+Full-Bridge 3-Phase Induction Furnace.  
 Power Controller with 3-Phase Full-Wave Rectifier.  
 
 Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  

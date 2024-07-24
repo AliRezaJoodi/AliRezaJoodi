@@ -169,7 +169,7 @@
         </a> <br />
         <span style="color:#999">3-Phase</span> <br />
         <span style="color:#999">Half-Bridge</span> <br />
-        <span style="color:#999">Power Controller with Dimmer</span> <br />
+        <span style="color:#999">Power Controller with Phase Dimmer</span> <br />
     </td>
     <td>
 	<a href="https://dirgodazamol.com/en/" target="_top">
@@ -196,7 +196,7 @@
         </a> <br />
         <span style="color:#999">3-Phase</span> <br />
         <span style="color:#999">Half-Bridge</span> <br />
-        <span style="color:#999">Power Controller with Dimmer</span> <br />
+        <span style="color:#999">Power Controller with Phase Dimmer</span> <br />
     </td>
     <td>
 	<a href="https://dirgodazamol.com/en/" target="_top">
@@ -223,7 +223,31 @@
         </a> <br />
         <span style="color:#999">3-Phase</span> <br />
         <span style="color:#999">Full-Bridge</span> <br />
-        <span style="color:#999">Power Controller with Dimmer</span> <br />
+        <span style="color:#999">Power Controller with Phase Dimmer</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+    </td>
+ </tr>
+
+  <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8477816734/Album.jpg"
+        alt="ts"
+        width="150"
+        height="139"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_InductionFurnace_10KW.md" target="_top">
+        <span>Induction Furnace, 10KW</span>
+        </a> <br />
+        <span style="color:#999">1-Phase</span> <br />
+        <span style="color:#999">Half-Bridge</span> <br />
+        <span style="color:#999">Power Controller with Phase Dimmer</span> <br />
     </td>
     <td>
 	<a href="https://dirgodazamol.com/en/" target="_top">

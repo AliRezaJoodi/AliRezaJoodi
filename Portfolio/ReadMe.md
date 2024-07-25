@@ -257,4 +257,26 @@
     </td>
  </tr>
 
+  <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8477842718/Album.jpg"
+        alt="ts"
+        width="150"
+        height="115"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_InductionFurnace_10KW.md" target="_top">
+        <span>DC Motor Driver, Full Bridge, Isolated, 12V/5A</span>
+        </a> <br />
+        <span style="color:#999">Full Bridge with MOSFET</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+    </td>
+ </tr>
+ 
 </table>

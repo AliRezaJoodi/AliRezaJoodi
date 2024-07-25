@@ -17,8 +17,10 @@ My Tasks :
   - 3-Phase Full Wave Rectifier with Half Controlled Based on AVR MCU
   - [DC Motor Driver, Full Bridge with MOSFET, Isolated, 12V/5A](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md)
   - Isolated Measurement of Voltage and Current with THD Components
+  - A board with multiple power supplies 
   - Controller Board base on AVR MCU
-  - A board with multiple power supplies
+  - Display Panel with 20×4 Character LCD
+  - Capacitor packages
 - Electrical components installing
 - Installed the cooling components
 - Wiring

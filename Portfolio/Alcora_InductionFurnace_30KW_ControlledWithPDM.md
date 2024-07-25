@@ -15,6 +15,7 @@ My Tasks:
 - PCB Assembly
   - Pulse Generator Board
   - IGBT Driver Boards
+  - Capacitor packages
 - Installed the electrical components
 - Installed the cooling components
 - Wiring

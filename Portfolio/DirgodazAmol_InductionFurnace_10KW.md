@@ -18,6 +18,7 @@ My Tasks:
   - [DC Motor Driver, Full Bridge with MOSFET, Isolated, 12V/5A](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md)
   - Controller Board base on AVR MCU
   - Display Panel with 20×4 Character LCD
+  - Capacitor packages
 - Electrical components installing 
 - Wiring
 

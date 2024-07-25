@@ -18,6 +18,8 @@ My Tasks :
   - Isolated Measurement of Voltage and Current with SMD Components
   - Controller Board base on AVR MCU
   - A board with multiple power supplies
+  - Display Panel with 20×4 Character LCD
+  - Capacitor packages
 - Electrical components installing
 - Wiring
 

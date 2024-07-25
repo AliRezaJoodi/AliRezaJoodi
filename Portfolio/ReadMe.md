@@ -266,7 +266,7 @@
         />    
     </td>
     <td>
-        <a href="DirgodazAmol_InductionFurnace_10KW.md" target="_top">
+        <a href="DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md" target="_top">
         <span>DC Motor Driver, Full Bridge, Isolated, 12V/5A</span>
         </a> <br />
         <span style="color:#999">Full Bridge with MOSFET</span> <br />

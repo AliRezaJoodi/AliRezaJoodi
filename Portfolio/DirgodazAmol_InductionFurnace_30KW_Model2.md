@@ -1,7 +1,11 @@
 ## Induction Furnace, 30KW, Mode2
-Half-Bridge 3-Phase Induction Furnace.  
-Power Controller with 3-Phase Full-Wave Rectifier.  
-The display panel and the microcontroller based board were removed.  
+
+Feathres:
+- 3-Phase
+- Half-Bridge with IGBT
+- Power Controller with 3-Phase Full Wave Rectifier with Half Controlled
+  
+The display panel and the Controller board removed.  
 
 Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
 Work type was on-site  
@@ -17,6 +21,7 @@ My Tasks:
 - PCB assembly of all boards
 - Installed the electrical components
 - Installed the cooling components
+- Wiring
 
 ### Full View v1.0:
 ![](https://s32.picofile.com/file/8477640292/FullView_v1_0.jpg) 

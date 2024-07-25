@@ -1,6 +1,9 @@
 ## Induction Furnace, 30KW
-Half-Bridge 3-Phase Induction Furnace.  
-Power Controller with 3-Phase Full-Wave Rectifier.  
+
+Feathres:
+- 3-Phase
+- Half-Bridge with IGBT
+- Power Controller with 3-Phase Full Wave Rectifier with Half Controlled
 
 Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
 Work type was on-site  
@@ -9,14 +12,19 @@ Mar 2018 - Sep 2018
 Note: It was a prototype.  
 Note: In this project, we did not design a new board. We remade all boards of the 50 KW induction furnace for for this model.  
 
-My Tasks:
-- PCB assembly of all boards
-- Installed the electrical components
+My Tasks :
+- Remake of these boards
+  - 3-Phase Full Wave Rectifier with Half Controlled Based on AVR MCU
+  - [DC Motor Driver, Full Bridge with MOSFET, Isolated, 12V/5A](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md)
+  - Isolated Measurement of Voltage and Current with THD Components
+  - Controller Board base on AVR MCU
+  - A board with multiple power supplies
+- Electrical components installing
 - Installed the cooling components
+- Wiring
 
 ### Video: v1.0
 [A link on Youtube.com](https://www.youtube.com/watch?v=OxAUeDabD4k&t=137s) 
-
 ### Full View v1.0:
 ![](https://s32.picofile.com/file/8477663926/FullView1.jpg) 
 

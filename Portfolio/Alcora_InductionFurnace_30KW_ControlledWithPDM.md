@@ -1,7 +1,8 @@
 ## Induction Furnace, 30KW, Controlled With PDM
+
 Feathres:
+- 3-Phase
 - Full-Bridge with IGBT
-- 3-Phase Rectifier
 
 Client from Alcora Start-up, Iran  
 Work type was on-site  
@@ -14,9 +15,9 @@ My Tasks:
 - PCB Assembly
   - Pulse Generator Board
   - IGBT Driver Boards
-- Wiring
 - Installed the electrical components
 - Installed the cooling components
+- Wiring
 
 ### Full View, v1.0:
 ![](https://s32.picofile.com/file/8477571292/Full1.jpg)

@@ -18,5 +18,5 @@ My Tasks:
 ![PCB_2D](https://s32.picofile.com/file/8477565334/v1_11_PCB_2D.png)
 
 ### 3D View of PCB:
-![PCB_2D](https://s32.picofile.com/file/8477565342/v1_11_PCB_3D.png)
+![PCB_3D](https://s32.picofile.com/file/8477565342/v1_11_PCB_3D.png)
 

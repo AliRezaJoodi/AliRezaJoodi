@@ -1,4 +1,4 @@
-## 50KW Induction Furnace
+## Induction Furnace, 50KW
 Full-Bridge 3-Phase Induction Furnace.  
 Power Controller with 3-Phase Full-Wave Rectifier.  
 

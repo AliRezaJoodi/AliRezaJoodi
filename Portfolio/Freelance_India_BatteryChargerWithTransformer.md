@@ -1,4 +1,4 @@
-## 40V/30A Battery Charger with Transformer
+## Battery Charger with Transformer, 40V/30A
 The analog circuit was reverse-engineered.  
 The original project was based on the 8051 microcontroller, but we redesigned it with AVR.  
 

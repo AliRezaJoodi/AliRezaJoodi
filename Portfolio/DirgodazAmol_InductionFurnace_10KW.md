@@ -1,4 +1,4 @@
-## 10KW Induction Furnace
+## Induction Furnace, 10KW
 Half-Bridge 1-Phase Induction Furnace.  
 Power Controller with a dimmer.  
 

@@ -1,4 +1,4 @@
-## 30KW Induction Furnace, Mode2
+## Induction Furnace, 30KW, Mode2
 Half-Bridge 3-Phase Induction Furnace.  
 Power Controller with 3-Phase Full-Wave Rectifier.  
 The display panel and the microcontroller based board were removed.  

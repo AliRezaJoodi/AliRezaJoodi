@@ -1,4 +1,4 @@
-## 30KW Induction Furnace
+## Induction Furnace, 30KW
 Half-Bridge 3-Phase Induction Furnace.  
 Power Controller with 3-Phase Full-Wave Rectifier.  
 

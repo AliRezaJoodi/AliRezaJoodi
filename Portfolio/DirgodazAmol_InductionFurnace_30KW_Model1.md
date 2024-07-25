@@ -13,7 +13,7 @@ Note: It was a prototype.
 Note: In this project, we did not design a new board. We remade all boards of the 50 KW induction furnace for for this model.  
 
 My Tasks :
-- Remake of these boards
+- PCB assembly of these boards
   - 3-Phase Full Wave Rectifier with Half Controlled Based on AVR MCU
   - [DC Motor Driver, Full Bridge with MOSFET, Isolated, 12V/5A](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md)
   - Isolated Measurement of Voltage and Current with THD Components

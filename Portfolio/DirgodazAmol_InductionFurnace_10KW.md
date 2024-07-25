@@ -12,7 +12,7 @@ Jan 2017 - Jul 2017
 Note: It was a prototype.    
 
 My Tasks:
-- The design and make of these boards
+- Hardware Design, PCB Design, and  PCB assembly of these boards:
   - Single Phase Dimmer Based on Analog
   - Single Phase Dimmer Based on AVR MCU
   - [DC Motor Driver, Full Bridge with MOSFET, Isolated, 12V/5A](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md)

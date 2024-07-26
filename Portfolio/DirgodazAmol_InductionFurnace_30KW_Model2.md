@@ -3,17 +3,15 @@
 Feathres:
 - 3-Phase
 - Half-Bridge with IGBT
-- Power Controller with 3-Phase Full Wave Rectifier with Half Controlled
-  
-The display panel and the Controller board removed.  
+- Power Controller with 3-Phase Full Wave Rectifier with Half Controlled  
 
 Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
 Work type was on-site  
 Oct 2020 - Nov 2020  
-
-Note: The project design was by my colleague.  
+  
 Note: It's a prototype.  
-
+Note: The display panel and the Controller board based on AVR MCU removed. 
+Note: Used of a Digital 3-Phase Voltmeter Ammete.  
 Note: Three-phase dimmer board and IGBT driver board were used without modification.  
 
 My Tasks:

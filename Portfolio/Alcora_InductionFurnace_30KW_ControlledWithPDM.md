@@ -9,7 +9,7 @@ Work type was on-site
 Date in Oct 2023 - Dec 2023
 
 Note: The project design was by my colleague.  
-Note: It's a prototype.  
+Note: Used of a Digital 3-Phase Voltmeter Ammete. 
 
 My Tasks: 
 - PCB Assembly

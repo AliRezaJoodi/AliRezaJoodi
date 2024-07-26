@@ -1,4 +1,5 @@
 ## STM32_Exercises
+- [ ] MCP23017
 - [ ] Max7219
 - [ ] KeyPad
 - [ ] ADC

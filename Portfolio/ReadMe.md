@@ -279,4 +279,26 @@
     </td>
  </tr>
  
+   <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8477853768/Album.png"
+        alt="ts"
+        width="150"
+        height="63"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_PhaseDimmer_1Phase_BasedOnMCU.md" target="_top">
+        <span>Phase Dimmer, 1Phase, Based On AVR MCU</span>
+        </a> <br />
+        <span style="color:#999">Usable for External Thyristor or Triac</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+    </td>
+ </tr>
+ 
 </table>

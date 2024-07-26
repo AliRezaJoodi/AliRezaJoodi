@@ -13,13 +13,13 @@ My Tasks:
 - Manufacturing: Consultant  
 
 ### Original Device Panel:
-![MainBoard_DisplayBoard](https://s32.picofile.com/file/8477598576/OriginalDevicePanel.png.png)
+![](https://s32.picofile.com/file/8477598576/OriginalDevicePanel.png.png)
 
 ### Main Board and Display Board:
-![MainBoard_DisplayBoard](https://s32.picofile.com/file/8477598350/MainBoard_DisplayBoard.png)
+![](https://s32.picofile.com/file/8477598350/MainBoard_DisplayBoard.png)
 
 ### Cell Volt Board:
-![CellVolt](https://s32.picofile.com/file/8477598426/CellVolt.jpg)
+![](https://s32.picofile.com/file/8477598426/CellVolt.jpg)
 
 ### Power Board:
-![CellVolt](https://s32.picofile.com/file/8477598468/PowerBoard.jpg)
+![](https://s32.picofile.com/file/8477598468/PowerBoard.jpg)

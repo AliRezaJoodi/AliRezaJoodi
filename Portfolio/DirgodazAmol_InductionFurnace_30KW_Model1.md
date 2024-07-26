@@ -25,9 +25,10 @@ My Tasks :
 - Installed the cooling components
 - Wiring
 
-### Video: v1.0
+### Video, v1.0:
 [A link on Youtube.com](https://www.youtube.com/watch?v=OxAUeDabD4k&t=137s) 
-### Full View v1.0:
+
+### Full View, v1.0:
 ![](https://s32.picofile.com/file/8477663926/FullView1.jpg) 
 
 ### More photo:

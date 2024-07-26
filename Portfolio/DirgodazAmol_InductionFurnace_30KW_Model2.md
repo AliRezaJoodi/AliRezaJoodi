@@ -21,7 +21,7 @@ My Tasks:
 - Installed the cooling components
 - Wiring
 
-### Full View v1.0:
+### Full View, v1.0:
 ![](https://s32.picofile.com/file/8477640292/FullView_v1_0.jpg) 
 
 ### More photo:

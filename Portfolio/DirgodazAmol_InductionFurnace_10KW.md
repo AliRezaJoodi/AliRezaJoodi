@@ -22,10 +22,10 @@ My Tasks:
 - Electrical components installing 
 - Wiring
 
-### Video: v1.0
+### Video, v1.0:
 [A link on Youtube.com](https://www.youtube.com/watch?v=5HvjpDaDPMQ) 
 
-### Full View v1.0:
+### Full View, v1.0:
 ![](https://s32.picofile.com/file/8477816792/FullView_v1_0.jpg) 
 
 

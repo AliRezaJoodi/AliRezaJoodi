@@ -15,9 +15,9 @@ My Tasks:
 - Hardware Design: 100%
 - PCB Design: 100%
 
-### 2D View of PCB:
-![PCB_2D](https://s32.picofile.com/file/8477565234/v4_10_PCB_2D.png)
+### PCB, 2D:
+![](https://s32.picofile.com/file/8477565234/v4_10_PCB_2D.png)
 
-### 3D View of PCB:
-![PCB_3D](https://s32.picofile.com/file/8477565242/v4_10_PCB_3D.png)
+### PCB, 3D:
+![](https://s32.picofile.com/file/8477565242/v4_10_PCB_3D.png)
 

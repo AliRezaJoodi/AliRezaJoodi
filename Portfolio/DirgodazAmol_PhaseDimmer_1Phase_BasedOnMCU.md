@@ -10,7 +10,7 @@ Features:
 - SCR Gate Driver (2x)
 - 2-Layer PCB
 
-Note: It's need to external Thyristor or Triac.
+Note: It need to external Thyristor or Triac.
 
 Usable for:
 - 1-Phase Full Wave Rectifier with Half Controlled

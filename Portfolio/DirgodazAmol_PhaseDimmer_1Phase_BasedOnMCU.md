@@ -4,7 +4,7 @@ Features:
 - ATmega32 Microcontroller
 - External Watchdog
 - Voltage Reference with LM336
-- 4~20mA or 1~5V Analog Input 
+- 4-20mA or 1~5V Analog Input 
 - Zero Crossing Detector
 - Dual Isolated Power Supply for SCR Drivers
 - SCR Gate Driver (2x)

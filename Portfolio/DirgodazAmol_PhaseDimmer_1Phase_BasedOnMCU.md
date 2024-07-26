@@ -28,7 +28,7 @@ My Tasks:
 ![](https://s32.picofile.com/file/8477855218/v2_1_PCB_2D.png)
 
 ### Electrical Circuit, 1-Phase Full Wave Rectifier with Half Controlled:
-![](https://s32.picofile.com/file/8477854426/C1.png)
+![](https://s32.picofile.com/file/8477855518/C1.png)
 
 ### Electrical Circuit, 1-Phase Dimmer with Thyristor double:
 ![](https://s32.picofile.com/file/8477855468/C2.png)

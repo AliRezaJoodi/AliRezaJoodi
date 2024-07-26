@@ -14,7 +14,7 @@ Note: It was a prototype.
 My Tasks:
 - Hardware Design, PCB Design, and  PCB assembly of these boards:
   - Single Phase Dimmer Based on Analog
-  - Single Phase Dimmer Based on AVR MCU
+  - [Single Phase Dimmer Based on AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_PhaseDimmer_1Phase_BasedOnMCU.md)
   - [DC Motor Driver, Full Bridge with MOSFET, Isolated, 12V/5A](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md)
   - Controller Board base on AVR MCU
   - Display Panel with 20×4 Character LCD

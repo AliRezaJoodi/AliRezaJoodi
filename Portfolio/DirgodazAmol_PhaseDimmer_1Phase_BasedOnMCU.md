@@ -30,5 +30,5 @@ My Tasks:
 ### Electrical Circuit, 1-Phase Full Wave Rectifier with Half Controlled:
 ![](https://s32.picofile.com/file/8477854426/C1.png)
 
-### Electrical Circuit, 1-Phase Dimmer with Diode and Thyristor:
-![](https://s32.picofile.com/file/8477855250/C2.png)
+### Electrical Circuit, 1-Phase Dimmer with Thyristor double:
+![](https://s32.picofile.com/file/8477855468/C2.png)

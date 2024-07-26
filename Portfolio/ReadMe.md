@@ -289,7 +289,7 @@
     </td>
     <td>
         <a href="DirgodazAmol_PhaseDimmer_1Phase_BasedOnMCU.md" target="_top">
-        <span>Phase Dimmer, 1Phase, Based On AVR MCU</span>
+        <span>Phase Dimmer, 1-Phase, Based On AVR MCU</span>
         </a> <br />
         <span style="color:#999">Usable for External Thyristor or Triac</span> <br />
     </td>

@@ -1,4 +1,4 @@
-## Phase Dimmer, 1Phase, Based On AVR MCU
+## Phase Dimmer, 1-Phase, Based On AVR MCU
 
 Features:
 - ATmega32 Microcontroller
@@ -10,7 +10,7 @@ Features:
 - SCR Gate Driver (2x)
 - 2-Layer PCB
 
-Note: Its usable for external Thyristor or Triac.
+Note: It's need to external Thyristor or Triac.
 
 Usable for:
 - 1-Phase Full Wave Rectifier with Half Controlled

@@ -107,7 +107,7 @@
 
  <tr>
     <td>
-        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Dimmer_1Phase_LCD/Pictures/Album.jpg"
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/PhaseDimmer_1Phase_LCD/Pictures/Album.jpg"
         alt="ts"
         width="150"
         height="72"

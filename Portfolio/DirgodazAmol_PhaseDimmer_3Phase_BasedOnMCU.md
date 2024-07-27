@@ -17,6 +17,7 @@ Usable for:
 
 Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
 Work type was on-site  
+Jun 2017 - Jul 2017  
 
 My Tasks:  
 - Hardware Design: 100%

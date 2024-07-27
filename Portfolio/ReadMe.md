@@ -99,9 +99,6 @@
     <td>
         Client: Alcora Start-up, Iran<br />
         Work Type: On-site<br />
-        PCB Assembly<br />
-        Installed the electrical components<br />
-        Installed the cooling components<br />
     </td>
   </tr>
 
@@ -174,9 +171,6 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
-        Home-Mmade of New Boards<br />
-        Installed the Electrical Components<br />
-        Installed the Cooling Components<br />
     </td>
  </tr>
  
@@ -201,9 +195,6 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
-        Remade all the boards<br />
-        Installed the Electrical Components<br />
-        Installed the Cooling Components<br />
     </td>
  </tr>
 

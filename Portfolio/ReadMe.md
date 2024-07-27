@@ -274,6 +274,8 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
+        <span style="color:#999">Hardware Design: 50%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
     </td>
  </tr>
  
@@ -296,6 +298,9 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
+        <span style="color:#999">Hardware Design: 100%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
+        <span style="color:#999">AVR Programming: 100%</span> <br />
     </td>
  </tr>
  
@@ -318,6 +323,9 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
+        <span style="color:#999">Hardware Design: 100%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
+        <span style="color:#999">AVR Programming: 100%</span> <br />
     </td>
  </tr> 
  

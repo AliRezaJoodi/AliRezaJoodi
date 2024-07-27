@@ -299,4 +299,26 @@
     </td>
  </tr>
  
+   <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8477872118/Album.jpg"
+        alt="ts"
+        width="150"
+        height="107"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_PhaseDimmer_3Phase_BasedOnMCU.md" target="_top">
+        <span>Phase Dimmer, 3-Phase, Based On AVR MCU</span>
+        </a> <br />
+        <span style="color:#999">Usable for External Thyristor</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+    </td>
+ </tr> 
+ 
 </table>

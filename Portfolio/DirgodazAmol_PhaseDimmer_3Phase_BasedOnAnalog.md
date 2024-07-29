@@ -18,7 +18,7 @@ Work type was on-site
 My Tasks:  
 - PCB Design: 100%
 
-### v1.0:
+### v1.1:
 ![](https://s32.picofile.com/file/8477925800/v1_0.jpg)
 
 ### v1.1, PCB, 2D:

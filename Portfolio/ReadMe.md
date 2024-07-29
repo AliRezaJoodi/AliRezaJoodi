@@ -319,5 +319,28 @@
         <span style="color:#999">AVR Programming: 100%</span> <br />
     </td>
  </tr> 
+
+   <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8477925792/Album.jpg"
+        alt="ts"
+        width="150"
+        height="100"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_PhaseDimmer_3Phase_BasedOnAnalog.md" target="_top">
+        <span>Phase Dimmer, 3-Phase, Based On Analog</span>
+        </a> <br />
+        <span style="color:#999">Usable for External Thyristor</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
+    </td>
+ </tr> 
  
 </table>

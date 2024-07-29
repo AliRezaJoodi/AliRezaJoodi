@@ -19,10 +19,10 @@ My Tasks:
 - PCB Design: 100%
 
 ### v1.0:
-![]()
+![](https://s32.picofile.com/file/8477925800/v1_0.jpg)
 
 ### v1.1, PCB, 2D:
-![]()
+![](https://s32.picofile.com/file/8477925876/v1_1_PCB_2D.png)
 
 ### Electrical Circuit, 3-Phase Full Wave Rectifier with Half Controlled:
 ![](https://s32.picofile.com/file/8477872018/C1.png)

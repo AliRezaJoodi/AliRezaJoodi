@@ -13,7 +13,8 @@ Usable for:
 - 3-Phase Full Wave Rectifier with Half Controlled
 
 Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
-Work type was on-site 
+Work type was on-site  
+Feb 2017 - Mar 2017  
 
 My Tasks:  
 - PCB Design: 100%

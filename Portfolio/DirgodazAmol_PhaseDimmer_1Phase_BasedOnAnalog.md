@@ -15,6 +15,7 @@ Usable for:
 
 Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
 Work type was on-site  
+Aug 2016 - Sep 2016  
 
 My Tasks:  
 - PCB Design: 100%

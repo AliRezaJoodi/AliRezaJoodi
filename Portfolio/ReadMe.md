@@ -366,4 +366,25 @@
     </td>
  </tr>
  
+  <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TrainingBoardExclusiveForDimmer/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="95"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/tree/main/TrainingBoardExclusiveForDimmer" target="_top">
+        <span>AVR Training Board Exclusive For Dimmer</span>
+        </a> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        Hardware Design: 100%<br />
+        PCB Design: 100%<br />
+    </td>
+  </tr>
+ 
 </table>

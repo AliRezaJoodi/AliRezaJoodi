@@ -24,8 +24,8 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: Remote<br />
-        Hardware Design: 90%<br />
-        PCB Design: 100%<br />
+        <span style="color:#999">Hardware Design: 90%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
     </td>
  </tr>
 
@@ -49,8 +49,8 @@
     <td>
         Client: Russia<br />
         Work Type: Remote<br />
-        Hardware Design: 50%<br />
-        PCB Design: 100%<br />
+        <span style="color:#999">Hardware Design: 50%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
     </td>
   </tr>
 
@@ -74,8 +74,8 @@
     <td>
         Client: Russia<br />
         Work Type: Remote<br />
-        Hardware Design: 100%<br />
-        PCB Design: 100%<br />
+        <span style="color:#999">Hardware Design: 100%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
     </td>
   </tr>
 
@@ -120,8 +120,8 @@
     <td>
         Client: Personal<br />
         Work Type: Open Source<br />
-        Hardware Design: 100%<br />
-        AVR Programming: 100%<br />
+        <span style="color:#999">Hardware Design: 100%</span> <br />
+        <span style="color:#999">AVR Programming: 100%</span> <br />
     </td>
   </tr>
 
@@ -144,9 +144,9 @@
     <td>
         Client: India<br />
         Work Type: Remote<br />
-        Hardware Design: 50%<br />
-        AVR Programming: 100%<br />
-        Manufacturing: Consultant<br />
+        <span style="color:#999">Hardware Design: 20%</span> <br />
+        <span style="color:#999">AVR Programming: 100%</span> <br />
+        <span style="color:#999">Manufacturing: Consultant</span> <br />
     </td>
   </tr>
 
@@ -336,8 +336,8 @@
     <td>
         Client: Personal<br />
         Work Type: Open Source<br />
-        Hardware Design: 100%<br />
-        PCB Design: 100%<br />
+        <span style="color:#999">Hardware Design: 100%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
     </td>
   </tr>
 
@@ -386,5 +386,30 @@
         <span style="color:#999">PCB Design: 100%</span> <br />
     </td>
  </tr>
+
+   <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8478046976/Album.png"
+        alt="ts"
+        width="150"
+        height="107"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_ControlledGasValveWith4to20mA.md" target="_top">
+        <span>Modified Manual Gas Valve to 4-20 mA Control with DC Motor</span>
+        </a> <br />
+        <span style="color:#999">Used for temperature controller in a gas furnace</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+        <span style="color:#999">Hardware Design: 80%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
+        <span style="color:#999">AVR Programming: 100%</span> <br />
+    </td>
+ </tr> 
  
 </table>

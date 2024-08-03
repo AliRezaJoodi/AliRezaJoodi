@@ -7,7 +7,7 @@ Work type was remote
 Date in Apr 2023 - Jun 2023  
 
 My Tasks: 
-- Hardware Design: 50%  
+- Hardware Design: 20%  
 - PCB Design: Consultant  
 - AVR Programming: 100%
 - Manufacturing: Consultant  

@@ -392,7 +392,7 @@
         <img src="https://s32.picofile.com/file/8478046976/Album.png"
         alt="ts"
         width="150"
-        height="107"
+        height="78"
         />    
     </td>
     <td>

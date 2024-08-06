@@ -18,7 +18,7 @@ My Tasks :
   - [DC Motor Driver, Full Bridge with MOSFET, Isolated, 12V/5A](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md)
   - Isolated Measurement of Voltage and Current with THD Components
   - A board with multiple power supplies 
-  - Controller Board base on AVR MCU
+  - [Controller Board for Induction Furnaces Base on AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_ControllerBoardForInductionFurnaces.md)
   - Display Panel with 20×4 Character LCD
   - Capacitor packages
 - Electrical components installing

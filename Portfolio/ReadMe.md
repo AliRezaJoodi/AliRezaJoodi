@@ -271,6 +271,29 @@
     </td>
  </tr> 
 
+   <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8478141034/Album.jpg"
+        alt="ts"
+        width="150"
+        height="135"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_PowerSupplyForInductionFurnaces.md" target="_top">
+        <span>Power Supply For Induction Furnaces</span>
+        </a> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+        <span style="color:#999">Hardware Design: 100%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
+    </td>
+ </tr>
+
   <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477842718/Album.jpg"

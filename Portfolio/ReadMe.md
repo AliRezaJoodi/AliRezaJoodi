@@ -281,7 +281,7 @@
     </td>
     <td>
         <a href="DirgodazAmol_PowerSupplyForInductionFurnaces.md" target="_top">
-        <span>Power Supply For Induction Furnaces</span>
+        <span>Multiple Power Supply For Induction Furnaces</span>
         </a> <br />
     </td>
     <td>

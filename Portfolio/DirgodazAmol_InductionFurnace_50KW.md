@@ -17,7 +17,7 @@ My Tasks :
   - Isolated Measurement of Voltage and Current with THD Components
   - Isolated Measurement of Voltage and Current with SMD Components
   - [Controller Board For Induction Furnaces Base on AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_ControllerBoardForInductionFurnaces.md)
-  - A board with multiple power supplies
+  - [Multiple Power Supply For Induction Furnaces](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_PowerSupplyForInductionFurnaces.md)
   - Display Panel with 20×4 Character LCD
   - Capacitor packages
 - Electrical components installing

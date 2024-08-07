@@ -1,4 +1,4 @@
-## Power Supply For Induction Furnaces
+## Multiple Power Supply For Induction Furnaces
 
 Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
 Work type was on-site

@@ -17,7 +17,8 @@ Work type was on-site
 Feb 2017 - Mar 2017  
 
 My Tasks:  
-- PCB Design: 100%
+- PCB Design (100%)
+- PCB Assembly (100%)
 
 ### v1.1:
 ![](https://s32.picofile.com/file/8477925800/v1_0.jpg)

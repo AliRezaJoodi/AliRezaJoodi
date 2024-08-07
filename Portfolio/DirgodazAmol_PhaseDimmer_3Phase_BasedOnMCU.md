@@ -20,9 +20,10 @@ Work type was on-site
 Jun 2017 - Jul 2017  
 
 My Tasks:  
-- Hardware Design: 100%
-- PCB Design: 100%
-- AVR Programming: 100%
+- Hardware Design (100%)
+- PCB Design (100%)
+- PCB Assembly (100%)
+- AVR Programming (100%)
 
 ### v1.0:
 ![](https://s32.picofile.com/file/8477872042/v1_0.jpg)

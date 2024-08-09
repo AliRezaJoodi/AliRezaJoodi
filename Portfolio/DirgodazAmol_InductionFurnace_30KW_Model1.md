@@ -16,7 +16,7 @@ My Tasks :
 - PCB assembly of these boards
   - [Phase Dimmer, 3-Phase, Based On AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_PhaseDimmer_3Phase_BasedOnMCU.md)
   - [DC Motor Driver, Full Bridge with MOSFET, Isolated, 12V/5A](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md)
-  - Isolated Measurement of Voltage and Current with THD Components
+  - [Isolated Measurement of Current and Voltage for Induction Furnace with THD Components](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_IsolatedMeasurementOfCurrentAndVoltageForInductionFurnace_THD.md)
   - [Multiple Power Supply For Induction Furnaces](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_PowerSupplyForInductionFurnaces.md)
   - [Controller Board for Induction Furnaces Base on AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_ControllerBoardForInductionFurnaces.md)
   - Display Panel with 20×4 Character LCD

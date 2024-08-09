@@ -11,8 +11,8 @@ Work type was remote
 Date in January 2024  
 
 My Tasks:  
-- Hardware Design: 100%
-- PCB Design: 100%
+- Hardware Design (100%)
+- PCB Design (100%)
 
 ### PCB, 2D:
 ![](https://s32.picofile.com/file/8477565334/v1_11_PCB_2D.png)

@@ -6,6 +6,7 @@ Features:
 - Isolated Measurement of Inverter Current
 - Isolated Measurement of Inverter Voltage
 - Isolated Measurement of Coil Voltage
+- 2-Layer PCB
 
 Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
 Work type was on-site

@@ -135,8 +135,7 @@
     </td>
     <td>
         <a href="Freelance_India_BatteryChargerWithTransformer.md" target="_top">
-        <span>Battery Charger with Transformer, 40V/30A
-</span>
+        <span>Battery Charger with Transformer, 40V/30A</span>
         </a> <br />
         <span style="color:#999">Reverse Engineering of Analog Circuit</span> <br />
         <span style="color:#999">Redesigned Microcontroller Unit</span> <br />
@@ -174,7 +173,7 @@
     </td>
  </tr>
  
-  <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477663918/Album.jpg"
         alt="ts"
@@ -198,7 +197,7 @@
     </td>
  </tr>
 
-  <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477705692/Album.jpg"
         alt="ts"
@@ -222,7 +221,7 @@
     </td>
  </tr>
 
-  <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477816734/Album.jpg"
         alt="ts"
@@ -246,7 +245,7 @@
     </td>
  </tr>
 
-   <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478198818/Album.png"
         alt="ts"
@@ -256,8 +255,7 @@
     </td>
     <td>
         <a href="DirgodazAmol_IsolatedMeasurementOfCurrentAndVoltageForInductionFurnace_SMD.md" target="_top">
-        <span>Isolated Measurement of Current and Voltage for Induction Furnace
-</span>
+        <span>Isolated Measurement of Current and Voltage for Induction Furnace (SMD)</span>
         </a> <br />
         <span style="color:#999">Based on HCPL-7840</span> <br />
         <span style="color:#999">3-Channel Isolated Analog</span> <br />
@@ -273,7 +271,7 @@
     </td>
  </tr> 
 
-   <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478197092/Album.jpg"
         alt="ts"
@@ -283,8 +281,7 @@
     </td>
     <td>
         <a href="DirgodazAmol_IsolatedMeasurementOfCurrentAndVoltageForInductionFurnace_THD.md" target="_top">
-        <span>Isolated Measurement of Current and Voltage for Induction Furnace
-</span>
+        <span>Isolated Measurement of Current and Voltage for Induction Furnace (THD)</span>
         </a> <br />
         <span style="color:#999">Based on HCPL-7840</span> <br />
         <span style="color:#999">3-Channel Isolated Analog</span> <br />
@@ -300,7 +297,7 @@
     </td>
  </tr> 
 
-   <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478124076/Album.jpg"
         alt="ts"
@@ -325,7 +322,7 @@
     </td>
  </tr> 
 
-   <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478141034/Album.jpg"
         alt="ts"
@@ -348,7 +345,7 @@
     </td>
  </tr>
 
-  <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477842718/Album.jpg"
         alt="ts"
@@ -372,7 +369,7 @@
     </td>
  </tr>
  
-   <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477853768/Album.png"
         alt="ts"
@@ -397,7 +394,7 @@
     </td>
  </tr>
  
-   <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477872118/Album.jpg"
         alt="ts"
@@ -422,7 +419,7 @@
     </td>
  </tr> 
 
-  <tr>
+ <tr>
     <td>
         <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TrainingBoardExclusiveForDimmer/Pictures/Album.jpg"
         alt="ts"
@@ -443,7 +440,7 @@
     </td>
   </tr>
 
-   <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477925792/Album.jpg"
         alt="ts"
@@ -466,7 +463,7 @@
     </td>
  </tr> 
 
-   <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477970576/Album.jpg"
         alt="ts"
@@ -489,7 +486,7 @@
     </td>
  </tr>
 
-   <tr>
+ <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478046976/Album.png"
         alt="ts"

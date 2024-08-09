@@ -248,6 +248,31 @@
 
    <tr>
     <td>
+        <img src="https://s32.picofile.com/file/8478197092/Album.jpg"
+        alt="ts"
+        width="150"
+        height="78"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_IsolatedMeasurementOfCurrentAndVoltageForInductionFurnace.md" target="_top">
+        <span>Isolated Measurement of Current and Voltage for Induction Furnace
+</span>
+        </a> <br />
+        <span style="color:#999">3-Channel Isolated Analog</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+        <span style="color:#999">Hardware Design: 30%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
+    </td>
+ </tr> 
+
+   <tr>
+    <td>
         <img src="https://s32.picofile.com/file/8478124076/Album.jpg"
         alt="ts"
         width="150"

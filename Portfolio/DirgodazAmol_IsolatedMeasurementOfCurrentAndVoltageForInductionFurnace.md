@@ -1,5 +1,10 @@
 ## Isolated Measurement of Current and Voltage for Induction Furnace
 
+Features:
+- Isolated Measurement of Inverter Current
+- Isolated Measurement of Inverter Voltage
+- Isolated Measurement of Coil Voltage
+
 Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
 Work type was on-site
 

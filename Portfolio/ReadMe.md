@@ -259,9 +259,9 @@
         <span>Isolated Measurement of Current and Voltage for Induction Furnace
 </span>
         </a> <br />
+        <span style="color:#999">Based on HCPL-7840</span> <br />
         <span style="color:#999">3-Channel Isolated Analog</span> <br />
         <span style="color:#999">with SMD Package Components</span> <br />
-        <span style="color:#999">Based on HCPL-7840</span> <br />
     </td>
     <td>
 	<a href="https://dirgodazamol.com/en/" target="_top">
@@ -286,9 +286,9 @@
         <span>Isolated Measurement of Current and Voltage for Induction Furnace
 </span>
         </a> <br />
+        <span style="color:#999">Based on HCPL-7840</span> <br />
         <span style="color:#999">3-Channel Isolated Analog</span> <br />
         <span style="color:#999">with THD Package Components</span> <br />
-        <span style="color:#999">Based on HCPL-7840</span> <br />
     </td>
     <td>
 	<a href="https://dirgodazamol.com/en/" target="_top">

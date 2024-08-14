@@ -1,4 +1,4 @@
-## Capacitor Package For 50KW Induction Furnaces
+## Capacitor Package for 50KW Induction Furnaces
 
 Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
 Work type was on-site  

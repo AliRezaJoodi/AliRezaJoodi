@@ -19,7 +19,7 @@ My Tasks :
   - [Controller Board For Induction Furnaces Base on AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_ControllerBoardForInductionFurnaces.md)
   - [Multiple Power Supply For Induction Furnaces](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_PowerSupplyForInductionFurnaces.md)
   - Display Panel with 20×4 Character LCD
-  - [Capacitor packages](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_CapacitorPackageForInductionFurnaces50KW.md)
+  - [Capacitor package](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_CapacitorPackageForInductionFurnaces50KW.md)
 - Electrical components installing
 - Wiring
 

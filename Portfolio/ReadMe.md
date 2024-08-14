@@ -255,7 +255,7 @@
     </td>
     <td>
         <a href="DirgodazAmol_CapacitorPackageForInductionFurnaces50KW.md" target="_top">
-        <span>ICapacitor Package For 50KW Induction Furnaces</span>
+        <span>Capacitor Package for 50KW Induction Furnaces</span>
         </a> <br />
         <span style="color:#999">For Impedance Matching</span> <br />
     </td>

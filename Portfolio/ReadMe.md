@@ -247,6 +247,30 @@
 
  <tr>
     <td>
+        <img src="https://s32.picofile.com/file/8478342718/Album.jpg"
+        alt="ts"
+        width="150"
+        height="113"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_CapacitorPackageForInductionFurnaces50KW.md" target="_top">
+        <span>ICapacitor Package For 50KW Induction Furnaces</span>
+        </a> <br />
+        <span style="color:#999">For Impedance Matching</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
+        <span style="color:#999">PCB Assembly: 100%</span> <br />
+    </td>
+ </tr> 
+
+ <tr>
+    <td>
         <img src="https://s32.picofile.com/file/8478198818/Album.png"
         alt="ts"
         width="150"

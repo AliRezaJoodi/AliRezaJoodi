@@ -1,4 +1,5 @@
 ## STM32_Exercises
+- [ ] PCF8575
 - [ ] MCP23017
 - [ ] Max7219
 - [ ] KeyPad

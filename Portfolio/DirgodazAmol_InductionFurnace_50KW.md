@@ -11,6 +11,7 @@ Jan 2017 - Jul 2018
 
 My Tasks :
 - Hardware Design, PCB Design, and  PCB assembly of these boards:
+  - [IGBT Driver For Induction Furnace, Full Bridge, Based On SKYPER32R Module](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_IgbtDriverForInductionFurnace_FullBridge_BasedOnSKYPER32R.md)
   - [Phase Dimmer, 3-Phase, Based On Analog](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_PhaseDimmer_3Phase_BasedOnAnalog.md)
   - [Phase Dimmer, 3-Phase, Based On AVR MCU](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_PhaseDimmer_3Phase_BasedOnMCU.md)
   - [DC Motor Driver, Full Bridge with MOSFET, Isolated, 12V/5A](https://github.com/AliRezaJoodi/AliRezaJoodi/blob/main/Portfolio/DirgodazAmol_DcMotorDriver_FullBridge_Isolated_12V5A.md)

@@ -247,28 +247,54 @@
 
  <tr>
     <td>
-        <img src="https://s32.picofile.com/file/8478342718/Album.jpg"
+        <img src="https://s32.picofile.com/file/8478476768/Album.jpg"
         alt="ts"
         width="150"
-        height="113"
+        height="174"
         />    
     </td>
     <td>
-        <a href="DirgodazAmol_CapacitorPackageForInductionFurnaces50KW.md" target="_top">
-        <span>Capacitor Package for 50KW Induction Furnaces</span>
+        <a href="DirgodazAmol_IgbtDriverForInductionFurnace_FullBridge_BasedOnSKYPER32R.md" target="_top">
+        <span>Full Bridge IGBT Driver For Induction Furnace Based On SKYPER32R Module</span>
         </a> <br />
-        <span style="color:#999">For Impedance Matching</span> <br />
+        <span style="color:#999">Based on SKYPER32R Module</span> <br />
+        <span style="color:#999">Used for IGBT Modules</span> <br />
     </td>
     <td>
 	<a href="https://dirgodazamol.com/en/" target="_top">
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
+        <span style="color:#999">Hardware Design: 100%</span> <br />
         <span style="color:#999">PCB Design: 100%</span> <br />
-        <span style="color:#999">PCB Assembly: 100%</span> <br />
     </td>
  </tr> 
-
+ 
+  <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8478476850/Album.jpg"
+        alt="ts"
+        width="150"
+        height="95"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_IgbtDriverForInductionFurnace_HalfBridge_BasedOnSKYPER32R.md" target="_top">
+        <span>Half Bridge IGBT Driver For Induction Furnace Based On SKYPER32R Module</span>
+        </a> <br />
+        <span style="color:#999">Based on SKYPER32R Module</span> <br />
+        <span style="color:#999">Used for IGBT Module</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+        <span style="color:#999">Hardware Design: 100%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
+    </td>
+ </tr> 
+ 
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478198818/Album.png"
@@ -509,6 +535,30 @@
         <span style="color:#999">PCB Design: 100%</span> <br />
     </td>
  </tr>
+
+ <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8478342718/Album.jpg"
+        alt="ts"
+        width="150"
+        height="113"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_CapacitorPackageForInductionFurnaces50KW.md" target="_top">
+        <span>Capacitor Package for 50KW Induction Furnaces</span>
+        </a> <br />
+        <span style="color:#999">For Impedance Matching</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
+        <span style="color:#999">PCB Assembly: 100%</span> <br />
+    </td>
+ </tr> 
 
  <tr>
     <td>

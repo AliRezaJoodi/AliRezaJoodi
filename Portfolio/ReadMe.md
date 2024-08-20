@@ -247,6 +247,56 @@
 
  <tr>
     <td>
+        <img src="https://s32.picofile.com/file/8478512176/Album.jpg"
+        alt="ts"
+        width="150"
+        height="96"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_IgbtDriverForInductionFurnace_FullBridge_Model2.md" target="_top">
+        <span>IGBT Driver For Induction Furnace, Full Bridge, Model 2</span>
+        </a> <br />
+        <span style="color:#999">Included PDM Generator</span> <br />
+        <span style="color:#999">Included IGBTs</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+        <span style="color:#999">Hardware Design: 25%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
+    </td>
+ </tr> 
+
+ <tr>
+    <td>
+        <img src="https://s32.picofile.com/file/8478512142/Album.jpg"
+        alt="ts"
+        width="150"
+        height="103"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_IgbtDriverForInductionFurnace_FullBridge_Model1.md" target="_top">
+        <span>IGBT Driver For Induction Furnace, Full Bridge, Model 1</span>
+        </a> <br />
+        <span style="color:#999">Included PDM Generator</span> <br />
+        <span style="color:#999">IGBT Gate Drive Based on HCPL-3120</span> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+        <span style="color:#999">Hardware Design: 25%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
+    </td>
+ </tr> 
+
+ <tr>
+    <td>
         <img src="https://s32.picofile.com/file/8478476768/Album.jpg"
         alt="ts"
         width="150"

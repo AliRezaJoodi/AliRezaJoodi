@@ -1,10 +1,11 @@
 ## 3-Phase Energy Meter Based on ADE7858
 
-3CH for 3-Phase AC Voltage  
-3CH 80A for Current  
-Curent Isolation with CT  
-Isolated SPI Interfacing with ADuM140x  
-2-Layer PCB  
+Features:
+- 3CH for 3-Phase AC Voltage
+- 3CH for 80A Current
+- Current Isolation with CT
+- Isolated SPI Interfacing with ADuM140x
+- 2-Layer PCB
 
 Client from Russia  
 Work type was remote  

@@ -1,11 +1,12 @@
 ## Isolated Measurement of Voltage and Current for 6 Loads
 
-3CH for 3-Phase AC Voltage  
-6CH 40A for Current  
-Voltage Isolation with HCPL-7840  
-Curent Isolation with CT  
-ADC with MAX11198 (16-bit resolution, 2Msps, SPI Interface)  
-2-Layer PCB  
+Features:
+- 3CH for 3-Phase AC Voltage
+- 6CH for 40A Current
+- Voltage Isolation with HCPL-7840
+- Current Isolation with CT
+- ADC with MAX11198 (16-bit resolution, 2Msps, SPI Interface)
+- 2-Layer PCB
 
 Client from Russia  
 Work type was remote  

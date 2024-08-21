@@ -1,5 +1,8 @@
 ## IGBT Driver For Induction Furnace, Half Bridge
 
+Features:
+- IGBT Gate Drive Based on HCPL-3120
+
 Client from [Dirgodaz Amol Industries Inc., Iran](https://dirgodazamol.com/en/)  
 Work type was on-site  
 

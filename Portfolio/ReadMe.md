@@ -151,6 +151,29 @@
 
  <tr>
     <td>
+        <img src="https://s32.picofile.com/file/8478562792/Album.jpg"
+        alt="ts"
+        width="150"
+        height="118"
+        />    
+    </td>
+    <td>
+        <a href="DirgodazAmol_PowerSupplyForArcWelder.md" target="_top">
+        <span>Power Supply For ARC Welder</span>
+        </a> <br />
+    </td>
+    <td>
+	<a href="https://dirgodazamol.com/en/" target="_top">
+        <span>Client: Dirgodaz Amol, Iran</span>
+        </a> <br />
+        Work Type: On-Site<br />
+        <span style="color:#999">Hardware Design: 90%</span> <br />
+        <span style="color:#999">PCB Design: 100%</span> <br />
+    </td>
+ </tr> 
+
+ <tr>
+    <td>
         <img src="https://s32.picofile.com/file/8477640334/Album.jpg"
         alt="ts"
         width="150"

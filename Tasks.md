@@ -1,4 +1,5 @@
 ## STM32_Exercises
+- [ ] MCP4922
 - [ ] PCF8575
 - [ ] MCP23017
 - [ ] Max7219

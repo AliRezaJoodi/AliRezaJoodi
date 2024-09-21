@@ -27,14 +27,13 @@
 - [x] 1-Phase Dimmer with CodeVisionAVR
 
 ## AVR_Exercises
-- [ ] PulseGenerator_TriacTriggerPulseWithPWM With 50Hz
+- [x] PulseGenerator_TriacTriggerPulseWithPWM With 50Hz
 - [x] Check PullUp register
 - [x] Edit Library of the Timers
 - [x] Edit Library of the External INT
 - [ ] INA219 Zero-Drift, Bidirectional Current/Power Monitor With I2C Interface
 - [x] Create Library For ADC
 - [x] Create Library For External INT
-- [ ] PulseGenerator_TriacTriggerPulseWithPWM_ChangeableOutput
 - [ ] Timer2_Counter with CodeVisionAVR
 - [x] Timer1_Counter with CodeVisionAVR
 - [ ] MAX31855 TC Sensor
@@ -55,7 +54,6 @@
 - [x] Encoder
 - [x] Bar Display Library
 - [x] Average Library
-- [ ] find a reserved bits on the AVR
 - [ ] PCA9536 (4-bit I2C-bus and SMBus I/O port)
 
 ## PIC_Projects
@@ -71,10 +69,10 @@
 - [ ] In `TextDisplay_LCD_USB` Create simulation file
 
 ## Electronics_Modules
-- [ ] SCR Trigger With MOC3021
+- [x] SCR Trigger With MOC3021
 - [x] Dimmer Controler with MOC3042
 - [x] Add VDD and GND pin in circuits drawn in the Proteus
-- [ ] Display_GLCD_KS0108_64x128
+- [x] Display_GLCD_KS0108_64x128
 - [x] In `PowerSupply_Flyback` Put a diode for snubber 
 
 

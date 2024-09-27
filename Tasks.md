@@ -1,9 +1,13 @@
 ## STM32_Exercises
+- [ ] SPI
+- [ ] I2C
+- [ ] USART2
+- [ ] Output Function
 - [ ] MCP4922
 - [ ] PCF8575
 - [ ] MCP23017
 - [ ] Max7219
-- [ ] KeyPad
+- [x] KeyPad 4x4
 - [ ] ADC
 - [x] 4-Digit 7-Segment
 - [x] 1-Digit 7-Segment
@@ -12,7 +16,7 @@
 - [ ] delay_us function with timer
 - [x] 16x2 LCD
 - [x] UART
-- [ ] Add lock in GPIO Driver
+- [x] Add lock in GPIO Driver, stm32f1xx_bm_gpio.h
 - [x] Use other macro in a header file
 - [x] Configure Input pin (A0, A4, A5 nad A6) 
 - [x] Single 7-Segment

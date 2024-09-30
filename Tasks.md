@@ -1,8 +1,10 @@
 ## STM32_Exercises
+- [ ] CRC
+- [ ] LIN
 - [x] SysTick, INT
 - [x] SysTick
 - [x] USART3
-- [ ] Buzzer
+- [x] Buzzer
 - [ ] SPI
 - [ ] I2C
 - [x] USART2
@@ -16,7 +18,6 @@
 - [x] 4-Digit 7-Segment
 - [x] 1-Digit 7-Segment
 - [x] Integer to String
-- [ ] delay_us function with timer
 - [x] 16x2 LCD
 - [x] UART1
 - [x] Add lock in GPIO Driver, stm32f1xx_bm_gpio.h
@@ -25,8 +26,8 @@
 - [x] Single 7-Segment
 - [x] Interrupt
 - [ ] Simulation with Keil
-- [x] Utiltiy Function
-- [x] Delay function (Didn't work in Proteus)
+- [x] Utiltiy Functions
+- [x] Delay function without using a timer
 - [x] RCC registers
 - [ ] TM1638
 

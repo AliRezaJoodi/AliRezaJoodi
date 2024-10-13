@@ -1,5 +1,9 @@
 ## STM32_Exercises
-- [ ] CRC
+- [x] Internal RTC
+- [ ] External RTC With I2C, DS1307
+- [ ] External EEPROM With I2C
+- [ ] OLED
+- [x] CRC
 - [ ] LIN
 - [x] SysTick, INT
 - [x] SysTick

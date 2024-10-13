@@ -120,8 +120,7 @@
     <td>
         Client: Personal<br />
         Work Type: Open Source<br />
-        <span style="color:#999">Hardware Design: 100%</span> <br />
-        <span style="color:#999">AVR Programming: 100%</span> <br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
     </td>
   </tr>
 
@@ -362,8 +361,7 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
-        <span style="color:#999">Hardware Design: 100%</span> <br />
-        <span style="color:#999">PCB Design: 100%</span> <br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
     </td>
  </tr> 
  
@@ -387,8 +385,7 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
-        <span style="color:#999">Hardware Design: 100%</span> <br />
-        <span style="color:#999">PCB Design: 100%</span> <br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
     </td>
  </tr> 
  
@@ -487,8 +484,7 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
-        <span style="color:#999">Hardware Design: 100%</span> <br />
-        <span style="color:#999">PCB Design: 100%</span> <br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
     </td>
  </tr>
 
@@ -535,9 +531,7 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
-        <span style="color:#999">Hardware Design: 100%</span> <br />
-        <span style="color:#999">PCB Design: 100%</span> <br />
-        <span style="color:#999">AVR Programming: 100%</span> <br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
     </td>
  </tr>
  
@@ -560,9 +554,7 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
-        <span style="color:#999">Hardware Design: 100%</span> <br />
-        <span style="color:#999">PCB Design: 100%</span> <br />
-        <span style="color:#999">AVR Programming: 100%</span> <br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
     </td>
  </tr> 
 
@@ -582,8 +574,7 @@
     <td>
         Client: Personal<br />
         Work Type: Open Source<br />
-        <span style="color:#999">Hardware Design: 100%</span> <br />
-        <span style="color:#999">PCB Design: 100%</span> <br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
     </td>
   </tr>
 
@@ -652,8 +643,7 @@
         <span>Client: Dirgodaz Amol, Iran</span>
         </a> <br />
         Work Type: On-Site<br />
-        <span style="color:#999">PCB Design: 100%</span> <br />
-        <span style="color:#999">PCB Assembly: 100%</span> <br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
     </td>
  </tr> 
 

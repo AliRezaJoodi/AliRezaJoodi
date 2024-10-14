@@ -703,6 +703,29 @@
 <!-- ********************** -->
  <tr>
     <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/HumidityTo4-20mAConversion_SHT10/Pictures/Album.png"
+        alt="ts"
+        width="150"
+        height="60"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/HumidityTo4-20mAConversion_SHT10" target="_top">
+        <span>Humidity to 4-20mA Conversion</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
         <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/FlasherWithTriacs_16CH/Pictures/Album.jpg"
         alt="ts"
         width="151"
@@ -943,6 +966,52 @@
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ConferenceTimer_7Segment_ATmega32" target="_top">
         <span>Conference Timer</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/PhoneBookWithDialer/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="78"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/PhoneBookWithDialer" target="_top">
+        <span>Phone Book With Dialer</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+  
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/LineFollowerRobot/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="60"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/LineFollowerRobot" target="_top">
+        <span>Line Follower Robot</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />

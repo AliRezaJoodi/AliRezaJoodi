@@ -1,4 +1,4 @@
-### Portfolio, Work Projects
+<!-- ********************** -->
 <table>
  <tr>
     <th>Picture</th>
@@ -6,6 +6,7 @@
     <th>Description</th>
  </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477570200/Album.png"
@@ -29,6 +30,7 @@
     </td>
  </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477565226/Album.png"
@@ -54,6 +56,7 @@
     </td>
   </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477565368/Album.png"
@@ -79,6 +82,7 @@
     </td>
   </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477571426/Album.png"
@@ -102,6 +106,7 @@
     </td>
   </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/PhaseDimmer_1Phase_LCD/Pictures/Album.jpg"
@@ -124,6 +129,7 @@
     </td>
   </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477598650/Album.png"
@@ -148,6 +154,7 @@
     </td>
   </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478562792/Album.jpg"
@@ -171,6 +178,7 @@
     </td>
  </tr> 
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477640334/Album.jpg"
@@ -194,7 +202,8 @@
         Work Type: On-Site<br />
     </td>
  </tr>
- 
+
+<!-- ********************** --> 
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477663918/Album.jpg"
@@ -219,6 +228,7 @@
     </td>
  </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477705692/Album.jpg"
@@ -243,6 +253,7 @@
     </td>
  </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477816734/Album.jpg"
@@ -267,6 +278,7 @@
     </td>
  </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478512176/Album.jpg"
@@ -292,6 +304,7 @@
     </td>
  </tr> 
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478512142/Album.jpg"
@@ -317,6 +330,7 @@
     </td>
  </tr> 
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478527300/Album.jpg"
@@ -341,6 +355,7 @@
     </td>
  </tr> 
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478476768/Album.jpg"
@@ -364,7 +379,8 @@
         <span style="color:#999">My Tasks: 100%</span> <br />
     </td>
  </tr> 
- 
+
+<!-- ********************** --> 
   <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478476850/Album.jpg"
@@ -388,7 +404,8 @@
         <span style="color:#999">My Tasks: 100%</span> <br />
     </td>
  </tr> 
- 
+
+<!-- ********************** --> 
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478198818/Album.png"
@@ -415,6 +432,7 @@
     </td>
  </tr> 
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478197092/Album.jpg"
@@ -441,6 +459,7 @@
     </td>
  </tr> 
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478124076/Album.jpg"
@@ -466,6 +485,7 @@
     </td>
  </tr> 
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478141034/Album.jpg"
@@ -488,6 +508,7 @@
     </td>
  </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477842718/Album.jpg"
@@ -512,6 +533,7 @@
     </td>
  </tr>
  
+ <!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477853768/Album.png"
@@ -535,6 +557,7 @@
     </td>
  </tr>
  
+ <!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477872118/Album.jpg"
@@ -558,6 +581,7 @@
     </td>
  </tr> 
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TrainingBoardExclusiveForDimmer/Pictures/Album.jpg"
@@ -578,6 +602,7 @@
     </td>
   </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477925792/Album.jpg"
@@ -601,6 +626,7 @@
     </td>
  </tr> 
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8477970576/Album.jpg"
@@ -624,6 +650,7 @@
     </td>
  </tr>
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478342718/Album.jpg"
@@ -647,6 +674,7 @@
     </td>
  </tr> 
 
+<!-- ********************** -->
  <tr>
     <td>
         <img src="https://s32.picofile.com/file/8478046976/Album.png"
@@ -671,5 +699,29 @@
         <span style="color:#999">AVR Programming: 100%</span> <br />
     </td>
  </tr> 
+ 
+ <!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/AlarmWithPIR_3Zones_Dialer/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="71"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/AlarmWithPIR_3Zones_Dialer" target="_top">
+        <span>Alarm with PIR Sensor, 3 Zones
+</span>
+        </a> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
  
 </table>

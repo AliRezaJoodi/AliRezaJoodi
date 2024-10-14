@@ -699,6 +699,75 @@
         <span style="color:#999">AVR Programming: 100%</span> <br />
     </td>
  </tr> 
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/FlasherWithTriacs_16CH/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="129"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/FlasherWithTriacs_16CH" target="_top">
+        <span>16CH Flashing Light with Triacs</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/DigitalWaterLevelMeterWithUltrasonicMoudle_SRF05_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="75"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DigitalWaterLevelMeterWithUltrasonicMoudle_SRF05_LCD" target="_top">
+        <span>Digital Water Level Meter</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+ 
+ <!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/DigitalMeterWithUltrasonicMoudle_SRF02_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="65"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DigitalMeterWithUltrasonicMoudle_SRF02_LCD" target="_top">
+        <span>Digital Meter with SRF02 Ultrasonic Module</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
  
  <!-- ********************** -->
  <tr>
@@ -828,6 +897,29 @@
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CalculatorWithTouchScreen&ThermometerWithLM35" target="_top">
         <span>Calculator with TouchScreen, Thermometer with LM35 Sensor </span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Game_TicTacToe_GLCD_TouchScreen/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="60"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Game_TicTacToe_GLCD_TouchScreen" target="_top">
+        <span>Tic Tac Toe Game with 64x128 GLCD</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />

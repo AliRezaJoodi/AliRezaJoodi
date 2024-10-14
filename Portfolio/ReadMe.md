@@ -711,9 +711,10 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/AlarmWithPIR_3Zones_Dialer" target="_top">
-        <span>Alarm with PIR Sensor, 3 Zones
+        <span>Alarm with PIR Sensor and Dialer, 3 Zones
 </span>
         </a> <br />
+        <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />
     </td>
     <td>
@@ -723,5 +724,27 @@
     </td>
   </tr>
 
+ <!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CalculatorWithTouchScreen&ThermometerWithLM35/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="64"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CalculatorWithTouchScreen&ThermometerWithLM35" target="_top">
+        <span>Calculator with TouchScreen, Thermometer with LM35 Sensor </span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
  
 </table>

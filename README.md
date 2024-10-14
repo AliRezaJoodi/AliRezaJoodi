@@ -14,7 +14,4 @@ An Embedded Hardware Design with over 10 years of experience in Hardware Design,
 - Proficient in Microsoft Office such as **Word**, **Excel**, **Access**, **Visio**, **PowerPoint**, and **Outlook**.
 
 ## Portfolio
-[Work Projects](Portfolio/ReadMe.md)  
-[Open-Source Project Based On AVR Microcontroller](https://github.com/AliRezaJoodi/AVR_Projects)  
-[Open-Source Project Based On PIC Microcontroller](https://github.com/AliRezaJoodi/PIC_Projects)  
-[Open-Source Project Based On 8051 Microcontroller](https://github.com/AliRezaJoodi/8051_Projects)  
+[Portfolio](Portfolio/ReadMe.md)

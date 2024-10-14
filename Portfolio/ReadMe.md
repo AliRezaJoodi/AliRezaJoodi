@@ -749,6 +749,75 @@
 <!-- ********************** -->
  <tr>
     <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/RelayControllerWithLaserPointer_1CH_ATmega8/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="73"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/RelayControllerWithLaserPointer_1CH_ATmega8" target="_top">
+        <span>1CH Relay Controller with Laser Pointer</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Programmer_USBASP/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="137"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Programmer_USBASP" target="_top">
+        <span>USBASP Programmer</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/Programmer_STK200/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="113"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/Programmer_STK200" target="_top">
+        <span>STK200/STK300 Programmer</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
         <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/DigitalWaterLevelMeterWithUltrasonicMoudle_SRF05_LCD/Pictures/Album.jpg"
         alt="ts"
         width="151"
@@ -1005,8 +1074,8 @@
     <td>
         <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/LineFollowerRobot/Pictures/Album.jpg"
         alt="ts"
-        width="150"
-        height="60"
+        width="151"
+        height="105"
         />    
     </td>
     <td>

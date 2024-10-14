@@ -703,6 +703,75 @@
  <!-- ********************** -->
  <tr>
     <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithRFID_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="73"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithRFID_LCD" target="_top">
+        <span>Code Lock With RFID</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+ 
+ <!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithTelCard_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="73"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithTelCard_LCD" target="_top">
+        <span>Code Lock With TelCard</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+ 
+ <!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/CodeLockWithKeypad4x4/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="79"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CodeLockWithKeypad4x4" target="_top">
+        <span>Code Lock with 4x4 Keypad</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+  
+ <!-- ********************** -->
+ <tr>
+    <td>
         <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/AlarmWithPIR_3Zones_Dialer/Pictures/Album.jpg"
         alt="ts"
         width="150"
@@ -713,6 +782,29 @@
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/AlarmWithPIR_3Zones_Dialer" target="_top">
         <span>Alarm with PIR Sensor and Dialer, 3 Zones
 </span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/ClockWithDS1307&Thermometer_LCD/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="76"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ClockWithDS1307&Thermometer_LCD" target="_top">
+        <span>Clock With DS1307 RTC, Thermometer</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />
@@ -736,6 +828,29 @@
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/CalculatorWithTouchScreen&ThermometerWithLM35" target="_top">
         <span>Calculator with TouchScreen, Thermometer with LM35 Sensor </span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/ConferenceTimer_7Segment_ATmega32/Pictures/Album.jpg"
+        alt="ts"
+        width="151"
+        height="76"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/ConferenceTimer_7Segment_ATmega32" target="_top">
+        <span>Conference Timer</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />

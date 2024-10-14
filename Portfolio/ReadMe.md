@@ -726,6 +726,236 @@
 <!-- ********************** -->
  <tr>
     <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TemperatureAndHumidityController_4Outputs_ComputerMonitoring_Bluetooth/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="89"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TemperatureAndHumidityController_4Outputs_ComputerMonitoring_Bluetooth" target="_top">
+        <span>Temperature and Humidity Controller, 4 Relay Outputs, Bluetooth Computer Monitoring</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TemperatureAndHumidityController_4Outputs_WirelessSensorWithRF/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="144"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TemperatureAndHumidityController_4Outputs_WirelessSensorWithRF" target="_top">
+        <span>Temperature and Humidity Controller, 4 Relay Outputs, Wireless Sensor With RF</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TemperatureAndHumidityController_4Outputs/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="88"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TemperatureAndHumidityController_4Outputs" target="_top">
+        <span>Temperature and Humidity Controller, 4 Relay Outputs</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TemperatureControllerAndGasDetector_2Outputs_ComputerMonitoring/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="92"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TemperatureControllerAndGasDetector_2Outputs_ComputerMonitoring" target="_top">
+        <span>Temperature Controller And Gas Detector, 2 Relay Ouputs, Computer Monitoring</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TemperatureController_2Outputs_ComputerMonitoring/Pictures/Album_USB_FT232BL.jpg"
+        alt="ts"
+        width="150"
+        height="67"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TemperatureController_2Outputs_ComputerMonitoring" target="_top">
+        <span>Temperature Controller, 2 Relay Ouputs, Computer Monitoring, USB</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TemperatureController_2Outputs_ComputerMonitoring/Pictures/Album_RS232.jpg"
+        alt="ts"
+        width="150"
+        height="70"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TemperatureController_2Outputs_ComputerMonitoring" target="_top">
+        <span>Temperature Controller, 2 Relay Ouputs, Computer Monitoring, RS232</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TemperatureController_2Outputs/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="71"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TemperatureController_2Outputs" target="_top">
+        <span>Temperature Controller, 2 Relay Outputs</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TemperatureController_1Output_ComputerMonitoring/Pictures/Album_USB_FT232BL.jpg"
+        alt="ts"
+        width="150"
+        height="74"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TemperatureController_1Output_ComputerMonitoring" target="_top">
+        <span>Temperature Controller, 1 Relay Output, Computer Monitoring, USB</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TemperatureController_1Output_ComputerMonitoring/Pictures/Album_RS232.jpg"
+        alt="ts"
+        width="150"
+        height="89"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TemperatureController_1Output_ComputerMonitoring" target="_top">
+        <span>Temperature Controller, 1 Relay Output, Computer Monitoring, RS232</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/TemperatureController_1Output/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="72"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/TemperatureController_1Output" target="_top">
+        <span>Temperature Controller, 1 Relay Output</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
         <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/FlasherWithTriacs_16CH/Pictures/Album.jpg"
         alt="ts"
         width="151"

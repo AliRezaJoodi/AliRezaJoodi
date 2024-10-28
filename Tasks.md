@@ -1,4 +1,5 @@
 ## STM32_Exercises
+- [ ] TM1638
 - [x] Internal RTC
 - [ ] External RTC With I2C, DS1307
 - [ ] External EEPROM With I2C
@@ -33,7 +34,6 @@
 - [x] Utiltiy Functions
 - [x] Delay function without using a timer
 - [x] RCC registers
-- [ ] TM1638
 
 ## AVR_Projects
 - [x] 1-Phase Dimmer with CodeVisionAVR

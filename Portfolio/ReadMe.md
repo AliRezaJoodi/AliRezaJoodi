@@ -1417,6 +1417,29 @@
   <!-- ********************** -->
  <tr>
     <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/DisplayWithLED_8x24_ControlledWithPcKeyboard/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="89"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DisplayWithLED_8x24_ControlledWithPcKeyboard" target="_top">
+        <span>Display With 8x24 LED</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+  <!-- ********************** -->
+ <tr>
+    <td>
         <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/DisplayWithLED_8x16/Pictures/Album.jpg"
         alt="ts"
         width="150"

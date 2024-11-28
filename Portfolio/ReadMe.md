@@ -1425,7 +1425,7 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DisplayWithLED_8x24_ControlledWithPcKeyboard" target="_top">
-        <span>Display With 8x24 LED</span>
+        <span>Display with 8x24 LED</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />
@@ -1448,7 +1448,7 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DisplayWithLED_8x16" target="_top">
-        <span>Display With 8x16 LED</span>
+        <span>Display with 8x16 LED</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />
@@ -1471,7 +1471,30 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DisplayWithLED_8x16" target="_top">
-        <span>Display With 8x16 Dot Matrix</span>
+        <span>Display with 8x16 Dot Matrix</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+ <!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/DisplayWithLED_8x8_Expandable/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="92"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DisplayWithLED_8x8_Expandable" target="_top">
+        <span>Display with 8x8 LED, Expandable</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />
@@ -1494,7 +1517,7 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/DisplayWithLED_8x8" target="_top">
-        <span>Display With 8x8 LED</span>
+        <span>Display with 8x8 LED</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />

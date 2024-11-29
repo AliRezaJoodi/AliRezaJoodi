@@ -1,5 +1,7 @@
+
 ## Summary
-An Embedded Hardware Design with over 10 years of experience in Hardware Design, PCB Design, and Microcontroller Programming.
+I have over 10 years of experience in designing and programming embedded systems.  
+My passion is in designing prototypes, as this process involves researching and solving new challenges.  
 
 ## Skills
 - Digital **Hardware Design**.

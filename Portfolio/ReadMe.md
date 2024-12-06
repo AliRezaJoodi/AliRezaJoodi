@@ -1413,7 +1413,53 @@
         <span style="color:#999">My Tasks: 100%</span> <br />
     </td>
   </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/MotorDriver_DCMotor_SpeedAndDirectionControllerWithSwitch_Model2/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="70"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_DCMotor_SpeedAndDirectionControllerWithSwitch_Model2" target="_top">
+        <span>DC Motor Driver, Speed and Direction Controller With Switch, Driver with Mosfet and Relay</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
  
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/MotorDriver_DCMotor_SpeedAndDirectionControllerWithSwitch_Model1/Pictures/Album.jpg"
+        alt="ts"
+        width="150"
+        height="68"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_DCMotor_SpeedAndDirectionControllerWithSwitch_Model1" target="_top">
+        <span>DC Motor Driver, Speed and Direction Controller With Switch, Driver with L298</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
   <!-- ********************** -->
  <tr>
     <td>

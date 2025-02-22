@@ -1449,7 +1449,7 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_DCMotor_SpeedAndDirectionControllerWithBluetooth" target="_top">
-        <span>DC Motor Driver, Speed and Direction Controller with Bluetooth from Computer/Mobile</span>
+        <span>DC Motor Driver, Speed and Direction Controller with Computer/Mobile, Bluetooth Interface</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />

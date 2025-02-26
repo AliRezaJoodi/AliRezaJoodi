@@ -1395,15 +1395,15 @@
 <!-- ********************** -->
  <tr>
     <td>
-        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/MotorDriver_ServoMotor_ControlledWithComputer_USB/Pictures/Album2.jpg"
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/MotorDriver_ServoMotorX4_ComputerControlled_USB/Pictures/Album2.jpg"
         alt="ts"
         width="150"
         height="75"
         />    
     </td>
     <td>
-        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_ServoMotor_ControlledWithComputer_USB" target="_top">
-        <span>Servo Motor Driver Controlled with Computer, 4 Motors, Optically Isolated, USB Interface</span>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_ServoMotorX4_ComputerControlled_USB" target="_top">
+        <span>Motor Driver, 4 Servo Motors, Optically Isolated, Computer Controlled, USB Interface</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />

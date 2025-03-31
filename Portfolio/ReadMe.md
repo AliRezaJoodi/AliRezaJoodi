@@ -1403,7 +1403,7 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_ServoX4_ComputerControlled_USB" target="_top">
-        <span>Motor Driver, 4 Servo Motors, Optically Isolated, Computer Controlled, USB Interface</span>
+        <span>4-Channel Servo Motor Controller, Computer Controlled, USB Interface</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />
@@ -1495,7 +1495,7 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_DC_NoFeedback_RemoteControlled_RF_ASK" target="_top">
-        <span>DC Motor Driver, Speed and Direction Controller with ASK RF Module</span>
+        <span>DC Motor Driver, No Feedback, Remote Controlled, ASK RF Module</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />
@@ -1510,14 +1510,14 @@
 <!-- ********************** -->
  <tr>
     <td>
-        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/MotorDriver_DC_WithFeedback_ComputerControlled_RS232/Pictures/Album.jpg"
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/MotorDriver_DC_WithFeedback_ComputerControlled/Pictures/Album.jpg"
         alt="ts"
         width="150"
         height="114"
         />    
     </td>
     <td>
-        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_DC_WithFeedback_ComputerControlled_RS232" target="_top">
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_DC_WithFeedback_ComputerControlled" target="_top">
         <span>DC Motor Driver, Speed Controller With Feedback, RS232, MATLAB</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
@@ -1564,7 +1564,7 @@
     </td>
     <td>
         <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_DC_NoFeedback_ManualControlled_L298" target="_top">
-        <span>DC Motor Driver, Speed and Direction Controller With Switch, Driver with L298</span>
+        <span>DC Motor Driver, Manual Controlled, Driver Based on L298</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
         <span style="color:#999">Based on AVR MCU</span> <br />

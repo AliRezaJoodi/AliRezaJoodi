@@ -1436,6 +1436,30 @@
         <span style="color:#999">My Tasks: 100%</span> <br />
     </td>
   </tr>
+
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/MotorDriver_StepperX1_ManuallyControlled_Keypad/Pictures/Album2.jpg"
+        alt="ts"
+        width="150"
+        height="106"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_StepperX1_ManuallyControlled_Keypad" target="_top">
+        <span>Single Stepper Motor Driver, Manually Controlled</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
   
 <!-- ********************** -->
  <tr>

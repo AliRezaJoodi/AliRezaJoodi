@@ -1441,7 +1441,7 @@
 <!-- ********************** -->
  <tr>
     <td>
-        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/MotorDriver_StepperX1_ManuallyControlled_Keypad/Pictures/Album2.jpg"
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/MotorDriver_StepperX1_ManuallyControlled_Keypad/Pictures/Album.jpg"
         alt="ts"
         width="150"
         height="106"

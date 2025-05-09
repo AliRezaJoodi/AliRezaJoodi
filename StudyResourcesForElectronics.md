@@ -36,3 +36,4 @@
 
 ## Other
 [Relays & How To Use Them - Part 2](https://sound-au.com/articles/relays2.htm) <br />
+[Optically Isolated Analog Input Module](https://www.electronics-lab.com/project/optically-isolated-analog-input-module-for-arduino/) <br />

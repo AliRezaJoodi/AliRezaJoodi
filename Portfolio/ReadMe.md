@@ -1437,6 +1437,51 @@
     </td>
   </tr>
 
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/MotorDriver_StepperX1_ComputerControlled/Pictures_Model5_USB_FT232RL/Album.jpg"
+        alt="ts"
+        width="150"
+        height="64"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_StepperX1_ComputerControlled" target="_top">
+        <span>Single Stepper Motor Driver, Computer Controlled, USB</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
+
+<!-- ********************** -->
+ <tr>
+    <td>
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/MotorDriver_StepperX1_ComputerControlled/Pictures_Model3_RS232_IRF540/Album.jpg"
+        alt="ts"
+        width="150"
+        height="69"
+        />    
+    </td>
+    <td>
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/MotorDriver_StepperX1_ComputerControlled" target="_top">
+        <span>Single Stepper Motor Driver, Computer Controlled, RS232</span>
+        </a> <br />
+        <span style="color:#999">Prototype</span> <br />
+        <span style="color:#999">Based on AVR MCU</span> <br />
+    </td>
+    <td>
+        Client: Personal<br />
+        Work Type: Open Source<br />
+        <span style="color:#999">My Tasks: 100%</span> <br />
+    </td>
+  </tr>
 
 <!-- ********************** -->
  <tr>

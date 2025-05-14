@@ -979,14 +979,14 @@
 <!-- ********************** -->
  <tr>
     <td>
-        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/RelayControllerWithLaserPointer_1CH_ATmega8/Pictures/Album.jpg"
+        <img src="https://github.com/AliRezaJoodi/AVR_Projects/raw/main/RelayRemoteController_LaserPointer_1CH_ATmega8/Pictures/Album.jpg"
         alt="ts"
         width="151"
         height="73"
         />    
     </td>
     <td>
-        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/RelayControllerWithLaserPointer_1CH_ATmega8" target="_top">
+        <a href="https://github.com/AliRezaJoodi/AVR_Projects/blob/main/RelayRemoteController_LaserPointer_1CH_ATmega8" target="_top">
         <span>1CH Relay Controller with Laser Pointer</span>
         </a> <br />
         <span style="color:#999">Prototype</span> <br />
